@@ -1,0 +1,12 @@
+# Outreach Scheduler — Landing-page fixes
+
+Read public page and hash login/signup routes on 29 October 2026. Current main copy begins **“Outreach Scheduler warms up your sending gradually: 10 emails on day 1”**; CTA **“Try the demo”**; support **“No inbox needed. Demo mode comes with sample data.”** No public numeric price or authenticated sending test was established.
+
+1. **Lead with control rather than reputation.** Replace the broad warming promise with **“Review a business-hours sending queue before your email goes out.”** Support: **“Inspect timing, cancellation and pause rules. No deliverability guarantee.”** Do not imply random gaps defeat provider detection.
+2. **Make sample versus live unmistakable.** Keep the current sample disclosure beside every demo entry and add **“Sample data. No real inbox connected.”** A separate live CTA must explain exactly what is available today. Test whether Try the demo enters the sample or an auth screen; label the actual destination accurately.
+3. **Explain the score.** Current score out of 100 uses bounces and replies. Replacement: **“Product-defined health signal from the activity shown. Not an inbox-placement measure or authorization to send.”** Publish denominator, time window and missing-data state; a new account should not imply proven health.
+4. **Explain stop and recovery.** Current stop rules mention bounce rate above 5% or health below 60. Add **“Paused: inspect the cause and recipients before deciding whether to resume.”** Verify exact comparisons, small denominators, already-queued messages and disconnection. Do not automatically resume a problematic queue without informed control.
+5. **State permissions and price before connection.** No public amount was found. Replacement block: **“Review current plan terms and requested mailbox permissions before connecting. Learn how to disconnect and revoke access.”** Populate actual verified terms rather than invent a free tier. Never request a password through outreach copy.
+6. **Show a safe first test.** Add **“Use an owned test mailbox and consenting internal recipients first.”** Test timezone/daylight changes, duplicate retries, cancel-before-send, bounce stop, revocation and phone layout. Show actual outcomes rather than a staged success. Keep message content, recipients and tokens out of replay.
+
+Gate: a real owner can understand the queue and stop it. If that is not yet possible, promote only the honest sample for design feedback.
