@@ -1,0 +1,16 @@
+# SoundBuddy — Distribution map
+
+**A working native demo and permissioned Mac-owner trials come first.** Broad launches wait for a clean-Mac test. Coordinate with Noteorious and DeclutterMac: your optional organizer window is days 17–20, your use case is pre-call input and typing sound, and your contact list stays separate from their transcription/storage lists.
+
+| Route | Exact action, rules and planning range | Copy |
+| --- | --- | --- |
+| 1 · Known compatible Mac owners | Ask five people on each of days 4,5,9,10,12,16,18,23,25,29: **50 personal invitations total**. Only people you know or who explicitly asked to test, not a scraped Mac-owner list. Confirm Apple silicon/macOS 14+ first. Assumption: 40% accept, 75% complete a paid installation = about 15 installs; this is not a measured purchase rate. | #1 |
+| 2 · Own LinkedIn/X demonstration | Six distinct posts on days 4,9,13,18,24,29. Lead with a real recorded input check or optional sound preview. No automatic tagging or repeated replies under unrelated posts. Assumption: 100–500 impressions/post, 2% visit, 5–15% of visits install = roughly 1–9 installs. | #2, #3 |
+| 3 · [Peerlist](https://peerlist.io/) | The official site advertises Monday Launchpad. Check current availability and eligibility; choose an actual Monday after installation proof, moving day 16 if necessary. One launch, no vote solicitation or second account. Hypothetical 0–200 visits, 0–20 installs at a 0–10% conversion. Not booked reach. | #4 |
+| 4 · [Product Hunt](https://www.producthunt.com/products/soundbuddy) | You already link to this product from the site. Update accurate assets/status through the maker account. Check [launch guidance](https://www.producthunt.com/launch); don't pretend an existing listing guarantees a fresh launch or ask for upvotes. Zero new launch traffic is the base assumption. | #4 |
+| 5 · Approved Mac-owner demonstration | Ask a campus technology organizer or known remote-worker circle privately. Only advertise after permission and compatibility screening; don't add people to a group. One session during your agreed window, synthetic demo and optional testing. Assumption: 10 attendees × 50% compatible × 40% install = about 2 installs, only if accepted. | #5 |
+| 6 · Existing directory records | The site links [Findly](https://findly.tools/soundbuddy) and [Mac App Index](https://macappindex.com/apps/soundbuddy). Check what is actually published and request factual corrections if needed. These are existing records, not promises of free editorial coverage. Zero incremental traffic forecast. | #4 |
+
+Read [Rogue Amoeba's official weblog](https://weblog.rogueamoeba.com/) for practical Mac-audio language. Reply only where you can answer the specific audio question; a competitor's support thread isn't your advertising space. No verified Reddit promotion rule or newsletter placement is assumed. An organizer's invitation is the permission, not the existence of a community.
+
+The channel assumptions sum to **roughly 16–46 installs**, before overlap is removed and the accepted-session condition applied. This is far below 1,000. At day 14, learn whether people want Input Lock or keyboard sounds and whether purchase/install friction blocks them. Do not solve the gap by counting the browser simulation as a native download or pushing incompatible users into checkout.
