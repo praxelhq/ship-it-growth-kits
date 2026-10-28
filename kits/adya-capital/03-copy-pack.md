@@ -50,6 +50,6 @@ Personalize the first sentence to the organization's actual programme. One follo
 
 ## 7. Session reminder
 
-> Today at 6pm: a practical deck-review walkthrough. Bring a question, not a confidential deck. We'll show a redacted example, explain what the review includes, and separate feedback, admission and fundraising outcomes. The session is free. Any optional application terms will be stated before you submit anything.
+> Reminder for our agreed practical deck-review walkthrough. Bring a question, not a confidential deck. We'll show a redacted example, explain what the review includes, and separate feedback, admission and fundraising outcomes. The session is free. Any optional application terms will be stated before you submit anything.
 
 Send once to attendees who opted in, with the actual accepted date and meeting link. Do not send the same pitch into the Astitva or PitchPanel session's group during their outreach week.
