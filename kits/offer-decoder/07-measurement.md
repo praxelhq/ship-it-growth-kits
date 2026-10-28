@@ -1,0 +1,11 @@
+# Offer Decoder — Measurement
+
+**Target: 1,000 signups in 30 days**, labelled unique genuine decode-session starters for the no-account path. Beside it report **completed source-checked breakdowns and people who can identify one relevant compensation clarification**. A generated number does not establish financial accuracy. Optional accounts, saved reports and share-link readers are distinct states, never additional people in the same total.
+
+Day-0 accounts, decode starts/completions, real users, leaderboard and analytics status are unknown. Record actual authorized aggregate counts and date windows. Do not interpret an empty course chart as zero users. [Clarity](https://clarity.microsoft.com/) may be present but its no-offer-content claim was not audited. Exclude letter intake, images, reports, compensation values, names and share tokens from recording and event payloads. Collect process feedback without private documents.
+
+Track source→real task start→processing route→extract success/error→components checked→breakdown understood. A fictional internal demo is a product test, not genuine offer-use activation. Consenting testers can validate navigation with fictional data; report that test cohort separately from real-use metrics. Deduplicate retries and anonymous returns without invasive fingerprinting; disclose limits.
+
+Twenty invitations, two circle bulletins and three owned posts in `06` support `02`'s guessed 10–29 starts before overlap, not 1,000. If qualified visit→decode start were 25%, reaching 1,000 would need 4,000 qualified unique visits. That is a hypothetical requirement, not forecast. Optional listing traffic stays zero until observed. Replace guesses with actual source rates before expanding.
+
+W1: extraction/calculation errors or confused data choices pause promotion. W2: if outputs complete but users cannot inspect assumptions, repair the explanation before stronger claims. W3: check whether genuine users return and whether saving/sharing surprises them; no salary disclosure as referral proof. W4: expand only a source producing checked, understood results; otherwise report the target gap. No claimed savings, tax compliance, negotiation success or guaranteed payroll outcome follows from usage.
