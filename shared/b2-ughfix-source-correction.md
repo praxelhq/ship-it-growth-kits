@@ -1,0 +1,3 @@
+# Ughfix — full-body pricing evidence
+
+Checked 29 October 2026. The default article extraction omitted the numeric plans and payment state. A rendered body extraction of [pricing](https://ughhfix.in/pricing) shows ₹99/month and ₹799/year, with **Payment jald aa raha hai (UPI, cards)**. These are advertised plans, not proof a purchase can complete. It also says Pro stays on the same phone/browser and warns against clearing browser data. The home page advertises seven days of Pro free; test and reconcile that promise before promotion. Do not call checkout broken when the site explicitly labels payments coming soon, and do not send people to buy an unavailable plan.
