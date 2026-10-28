@@ -30,7 +30,7 @@ Keep the source on the first visit and the date of the first eligible completion
 
 | Checkpoint | What you write down | What you change if behind |
 | --- | --- | --- |
-| Day 7 | First 20 invitations/posts, delivered visits, first starts and completions; watch five attempts. | If nobody qualified starts, change the invitation. If people start but fail, fix `04` before more distribution. |
+| Day 7 | Five player invitations and one gameplay clip scheduled; record actual visits, first games and completions; watch five attempts. | If nobody qualified starts, change the invitation. If people start but fail, fix `04` before more distribution. |
 | Day 14 | Cumulative signups + activations, best source and repeat-use cohort. | Compare actual rates with `02`; stop the weaker route after two real attempts, not after one unanswered message. |
 | Day 21 | Repeat use, partner attendance and hours spent per activated person. | Repeat the channel that produced finished use. Drop publicity that creates support but no useful completions. |
 | Day 28 | New versus returning people, activation rate, complaints or failed expectations. | Close the largest gap you can demonstrate. Do not loosen the counting rule. |
