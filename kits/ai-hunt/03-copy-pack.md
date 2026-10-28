@@ -2,7 +2,7 @@
 
 ## 1. Campus briefing invitation
 
-> I built AI Hunt to make new AI releases easier to check. This Tuesday at 6pm I'll walk through three releases for building a student project: what each does, whether you can use it now, and the original maker link. No slides full of logos. Bring one task you actually need to finish. The index is at aihunt.co.in; I'll also show what is editorial, what is a demo, and what real readers have voted on.
+> I built AI Hunt to make new AI releases easier to check. Could we agree a time for a walkthrough of three releases for building a student project: what each does, whether you can use it now, and the original maker link. No slides full of logos. Bring one task you actually need to finish. The index is at aihunt.co.in; I'll also show what is editorial, what is a demo, and what real readers have voted on.
 
 Send only after the group administrator agrees. Replace the relative day with the actual event date before sending.
 
