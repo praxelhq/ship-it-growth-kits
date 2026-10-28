@@ -28,11 +28,15 @@ Run `./check-kits.sh <slug>`, review the actual seven documents against `shared/
 
 ## Completed during continuation
 
-No new kits completed yet. Count actual folders with seven validated documents and check the remote before changing this statement. Research and scheduling are not completed kits.
+At the 20:42 UTC checkpoint, twelve new kits had been reviewed, verified, committed and pushed: Astitva (`2c3a5d6`), 12th Man (`ef11ed6`), BrandEchoAI (`7a44446`), AI Hunt (`512dd67`), Adda (`8a6430a`), Postifyy (`92b98d5`), Lynkr (`0724025`), First Take (`ed97978`), Fan Notch (`94f4b10`), Kwenzo (`019887a`), Clockwise (`36fab1c`), and Adya Capital (`8aef111`). That checkpoint records **33 delivered kits / 231 documents**, including the original 21; **274** of the overnight assignments remain undelivered at that checkpoint. Later individual kit commits are authoritative; this is a historical checkpoint, not a live counter. Other folders may be drafts or awaiting review. Count remote committed folders, not merely present directories. Research and scheduling are not completed kits.
+
+Main review caught and corrected missing exact headline quotes and forecast/calendar volume mismatches before delivery. Material source drift includes recovered sites marked down in the roster, changed product offers, demo-only checkouts and closed signups. Relevant kits state those current boundaries rather than repeating stale roster claims. The roster remains the original snapshot, not a new live-status audit.
 
 ## Active ownership
 
 The user subsequently explicitly authorized subagents. Eight writers now have disjoint assignments in `roster/production-assignments.csv`: a1 37, a2 36, b1 34, b2 33, c1 38, c2 38, d1 35, d2 35. Their task names are `business_a1`, `business_a2`, `tools_b1`, `tools_b2`, `media_c1`, `media_c2`, `consumer_d1`, `consumer_d2`. Each owns only its assigned kit folders and uniquely prefixed `shared/<group>-*.md` notes. **Only the main agent stages, commits and pushes.** Writers report `READY <slug>` after their per-kit checks; inspect that complete kit before committing it. Do not start duplicate writers while these are active.
+
+Durable readiness logs are `/tmp/ship-it-growth-overnight/ready-<group>.txt`, one slug per line, append-only. Main seeded previous READY messages there. A READY marker is a writer's self-review receipt, not delivery: compare against `git ls-tree` / the remote and perform main review before committing. Never infer readiness merely from seven files appearing during a write.
 
 ## Next work
 

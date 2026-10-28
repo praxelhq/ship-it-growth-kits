@@ -77,13 +77,13 @@ Never post the same text to two communities. Rewrite the first two sentences eac
 
 - **It does not include finished videos.** `05` gives you scripts and shot lists. You record them on your phone. A rough, real video from the founder outperforms a polished one.
 - **It does not include paid acquisition.** Budget is zero by design.
-- **It does not guarantee your number.** It gives you roughly 15,000–60,000 addressable impressions across the month (or, if you're B2B, a named list of businesses and a route to each one) and a landing page that converts a fair share of them. Executed properly, the target is reachable. Half-executed, it is not.
+- **It does not guarantee your number.** Your distribution map shows the planned outreach, estimated results and assumptions for your product. Some initial plans fall well short of the target; they say so and tell you which evidence would justify expanding them. Replace estimates with your results, report activation beside signups, and do not count impressions as users.
 
 ---
 
 ## If your site is down
 
-Check `roster/dead-links.md`. If your project is on that list, your domain did not resolve on 28 Oct 2026. Nothing in this kit matters until that is fixed. Fix it today.
+`roster/dead-links.md` is a dated snapshot from 28 October 2026, not proof your site is down today. Several sites have since recovered. Read the dated live-page findings in your own kit and check the URL from a normal browser before doing recovery work. If the real conversion path is unavailable, fix it before promoting; if it works, continue with the kit rather than repairing a stale status label.
 
 ---
 
