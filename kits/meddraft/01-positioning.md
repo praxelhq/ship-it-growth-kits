@@ -1,5 +1,7 @@
 # MedDraft — Positioning
 
+**Live:** https://drbirmolehospital.com/meddraft · **Category:** SaaS · **Profile:** https://shipped.money/p/meddraft
+
 Checked 29 October 2026 in a real browser at [drbirmolehospital.com/meddraft](https://drbirmolehospital.com/meddraft). Actual headline: **“Gurukrupa Hospital.”** Entry heading: **“Sign in”**; actions **“Sign in”** and **“New here? Request access.”** The page says **“New accounts can sign in only after the hospital administrator approves them.”** It offers English/Marathi selection. Empty-form sign-in and forgot-password controls were disabled in the observed state; that is not proof valid credentials or password recovery are broken.
 
 Metadata says **“Prepare, review and approve hospital documents by voice.”** The authenticated document workflow was not visible or tested. No account request, voice recording, patient record or document was submitted. No price, free allowance or general multi-hospital offer was established.
