@@ -8,7 +8,7 @@
 
 This is the hardest ICP in wave 1, and it is worth being blunt about why: **your buyer is not online in the places growth advice assumes.** They are not on Reddit, Product Hunt, Hacker News or X. A generic launch playbook will get you zero users. This kit is built around that.
 
-Your first 1,000 are **the independent tuition teacher in an Indian town or city suburb who teaches 15–60 students from home or a single rented room.**
+Your first ten are **the independent tuition teacher in an Indian town or city suburb who teaches 15–60 students from home or a single rented room.**
 
 1. **Home tutors** — Maths, Science, English, Accounts, for classes 6–12. One or two batches an evening. Fees ₹500–₹3,000/month per student, collected in cash or UPI, tracked in a notebook or in their head.
 2. **Music, dance, art and abacus teachers** — you already have a page for them ("Music, dance & other classes"), and they are an easier sell than academic tutors because their fee cycles are messier.

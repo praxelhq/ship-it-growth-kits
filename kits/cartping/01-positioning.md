@@ -8,7 +8,7 @@
 
 Your page already says it: *"Made for small Shopify brands."* Make it narrower still.
 
-Your first 1,000 are **the owner-operator of an Indian D2C Shopify store doing 30–300 orders a month, who personally answers the store's WhatsApp.**
+Your first ten are **the owner-operator of an Indian D2C Shopify store doing 30–300 orders a month, who personally answers the store's WhatsApp.**
 
 Concretely:
 1. **Solo founders and husband-and-wife brands** — apparel, jewellery, skincare, home goods, pet, snacks. They run Shopify, Instagram and a WhatsApp Business number, and the same person packs the orders.
