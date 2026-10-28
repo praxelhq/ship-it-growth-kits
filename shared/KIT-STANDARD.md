@@ -21,6 +21,8 @@ These are the five things that separate this from a template mill. Everything el
 
 **1. Open the product's actual live page before you write a word.** Fetch it. Read what it actually says — the real headline, the real price, the real CTA, whether the buttons go anywhere. Quote it back in `01` and `04`. A kit that could have been written from the project's name alone is a failed kit and is obvious to the student on first read.
 
+> **If the fetch fails, do not conclude the site is down.** Your sandbox may simply have no network route. Prove it twice before you write it: try a plain `curl -I` on the URL, and check it against `roster/roster.json`'s `live_status`. A kit that tells a student their working site is dead is worse than no kit — they will stop trusting the other six documents immediately. If you cannot establish network access at all, stop and say so rather than writing kits blind.
+
 **2. Never invent a fact.** Not a subreddit, not a Discord, not a member count, not a newsletter, not a statistic, not a competitor's price. If you did not verify it, leave it out. A dead subreddit link in `02` destroys the student's trust in all seven documents, and they will not tell you — they will just stop reading. When you cite a number that matters (a market size, a deadline, a placement statistic), link the source inline.
 
 **3. Reach estimates are expected results, not audience sizes.** "r/SideProject, 450k members" is useless. "r/SideProject — a Show-off post lands 2,000–6,000 impressions and 5–15 signups on a weekday morning" is the job. State the basis. If you genuinely don't know, say the range is a guess and why.
