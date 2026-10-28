@@ -1,5 +1,7 @@
 # Kreator — Positioning
 
+**Live:** https://www.thekreator.in/ · **Category:** SaaS · **Profile:** https://shipped.money/p/kreator
+
 Checked 29 October 2026 in the actual browser at [thekreator.in](https://www.thekreator.in/). Headline: **“Your creator business, in one vibrant place.”** CTAs: **“Start free”** and **“Create your account →”**. One plan is advertised at **₹60/month**, with **“Subscribe with Razorpay”**. The subscription link's public href is `#`; a JavaScript payment action might still exist. It was not clicked or tested. No account, deal, reminder, AI pitch, invoice or payment was created.
 
 ## Your first business
