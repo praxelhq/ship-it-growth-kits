@@ -1,0 +1,287 @@
+group,slug,project,audience,target_30d
+a1,astitva,Astitva,B2B,10 customers
+a1,milostudio,Milostudio,B2B,10 customers
+a1,listings-for-me,Listings For Me,B2B,10 customers
+a1,thela,Thela,B2B,10 customers
+a1,consilium,Consilium,B2B,10 customers
+a1,dancepass,DancePass,B2B,10 customers
+a1,qless,QLess,B2B,10 customers
+a1,sponsor-os,Sponsor OS,B2B,10 customers
+a1,creatordeal,CreatorDeal,B2B,10 customers
+a1,farm-profit,Farm profit,B2B,10 customers
+a1,statecraft-intelligence,Statecraft Intelligence,B2B,10 customers
+a1,abhyava,Abhyava,B2B,10 customers
+a1,askpragzy,askpragzy,B2B,10 customers
+a1,audit-extractor,Audit extractor,B2B,10 customers
+a1,booked,booked,B2B,10 customers
+a1,ca-deskk,CA Deskk,B2B,10 customers
+a1,choreostudio,ChoreoStudio,B2B,10 customers
+a1,defectdoc-ai,DefectDoc AI,B2B,10 customers
+a1,export-ready-2,Export Ready,B2B,10 customers
+a1,feedbackos,FeedbackOS,B2B,10 customers
+a1,fintellix,Fintellix,B2B,10 customers
+a1,founderseye,FOUNDERSEYE,B2B,10 customers
+a1,labby,Labby,B2B,10 customers
+a1,looplead,LoopLead,B2B,10 customers
+a1,nocapverify,Nocapverify,B2B,10 customers
+a1,obliged,Obliged,B2B,10 customers
+a1,outreach-scheduler,Outreach Scheduler,B2B,10 customers
+a1,payloop,PayLoop,B2B,10 customers
+a1,pickstack,PickStack,B2B,10 customers
+a1,playlead,PlayLead,B2B,10 customers
+a1,proofwall,Proofwall,B2B,10 customers
+a1,reconos,ReconOS,B2B,10 customers
+a1,secretairy,SecretAIry,B2B,10 customers
+a1,shortlist,Shortlist,B2B,10 customers
+a1,storescope,StoreScope,B2B,10 customers
+a1,tidy-row,tidy row,B2B,10 customers
+a1,washq,WashQ,B2B,10 customers
+a2,brandechoai,BrandEchoAI,B2B,10 customers
+a2,kwenzo-2,Kwenzo,B2B,10 customers
+a2,shubhrashi,shubhrashi,B2B,10 customers
+a2,saloon-queue-management-system,Saloon Queue Management System,B2B,10 customers
+a2,creatorforge,CreatorForge,B2B,10 customers
+a2,muggy,Muggy,B2B,10 customers
+a2,socialgrid,SocialGrid,B2B,10 customers
+a2,thespacesync,thespacesync,B2B,10 customers
+a2,cultcool,Cultcool,B2B,10 customers
+a2,nxt,NXT,B2B,10 customers
+a2,telos,Telos,B2B,10 customers
+a2,artificial-influence,Artificial Influence,B2B,10 customers
+a2,aslirate,AsliRate,B2B,10 customers
+a2,before,Before,B2B,10 customers
+a2,brandaid,Brandaid,B2B,10 customers
+a2,catalog-maker,Catalog Maker,B2B,10 customers
+a2,cutroom,Cutroom,B2B,10 customers
+a2,engage,Engage,B2B,10 customers
+a2,farm-os,farm os,B2B,10 customers
+a2,figuredit,FiguredIt,B2B,10 customers
+a2,firmquote,FirmQuote,B2B,10 customers
+a2,kreator,Kreator,B2B,10 customers
+a2,lawyeros,LawyerOS,B2B,10 customers
+a2,meddraft,MedDraft,B2B,10 customers
+a2,nudgebooks,NudgeBooks,B2B,10 customers
+a2,onethread,OneThread,B2B,10 customers
+a2,parchi,Parchi,B2B,10 customers
+a2,pbc-tracker,PBC Tracker,B2B,10 customers
+a2,pitch-panel,Pitch panel,B2B,10 customers
+a2,portal-flow,Portal Flow,B2B,10 customers
+a2,quotepilot,QuotePilot,B2B,10 customers
+a2,returnrescue,ReturnRescue,B2B,10 customers
+a2,shelftest,shelftest,B2B,10 customers
+a2,spikewatch,Spikewatch,B2B,10 customers
+a2,threadly,Threadly,B2B,10 customers
+a2,voctrace,VocTrace,B2B,10 customers
+b1,lynkr,Lynkr,B2C,"1,000 signups"
+b1,proxy,Proxy,B2C,"1,000 signups"
+b1,signal-post-ai,Signal-Post-AI,B2C,"1,000 signups"
+b1,switchboard,SwitchBoard,B2C,"1,000 signups"
+b1,twocents,TwoCents,B2C,"1,000 signups"
+b1,fuelbar,FuelBar,B2C,"1,000 signups"
+b1,relay,Relay,B2C,"1,000 signups"
+b1,carevoyage,careVoyage,B2C,"1,000 signups"
+b1,gift-finder,Gift Finder,B2C,"1,000 signups"
+b1,maison-verite,Maison VÃ©ritÃ©,B2C,"1,000 signups"
+b1,family-sub-savee,Family Sub savee,B2C,"1,000 signups"
+b1,spearn,Spearn,B2C,"1,000 signups"
+b1,stockiq,StockIQ,B2C,"1,000 signups"
+b1,crewup,Crewup,B2C,"1,000 signups"
+b1,findtune,findtune,B2C,"1,000 signups"
+b1,pawfoliopets,Pawfoliopets,B2C,"1,000 signups"
+b1,afterthoughts,Afterthoughts,B2C,"1,000 signups"
+b1,decision-log,Decision Log,B2C,"1,000 signups"
+b1,dumdum,dumdum,B2C,"1,000 signups"
+b1,kaira,Kaira,B2C,"1,000 signups"
+b1,knock-knock,Knock Knock,B2C,"1,000 signups"
+b1,media-chronicle,Media Chronicle,B2C,"1,000 signups"
+b1,mimori,MIMORI,B2C,"1,000 signups"
+b1,myworkfolio,MyWorkFolio,B2C,"1,000 signups"
+b1,patterlane,Patterlane,B2C,"1,000 signups"
+b1,shaadi-board,Shaadi Board,B2C,"1,000 signups"
+b1,sniptext,SnipText,B2C,"1,000 signups"
+b1,swishh,swishh,B2C,"1,000 signups"
+b1,taskbaddie,TaskBaddie,B2C,"1,000 signups"
+b1,toolshed,Toolshed,B2C,"1,000 signups"
+b1,biaah,biaah,B2C,"1,000 signups"
+b1,first-door,First.door,B2C,"1,000 signups"
+b1,kinemi,Kinemi,B2C,"1,000 signups"
+b1,stylekaro,StyleKaro,B2C,"1,000 signups"
+b2,postifyy,Postifyy,B2C,"1,000 signups"
+b2,shayari-nhe-01,Shayari NHE 01,B2C,"1,000 signups"
+b2,sole-match,sole match,B2C,"1,000 signups"
+b2,the-steady-post,The Steady post,B2C,"1,000 signups"
+b2,footholds,Footholds,B2C,"1,000 signups"
+b2,nook,Nook,B2C,"1,000 signups"
+b2,shipsnag,ShipSnag,B2C,"1,000 signups"
+b2,dupedesk,Dupedesk,B2C,"1,000 signups"
+b2,labelkanikabhutani,labelkanikabhutani,B2C,"1,000 signups"
+b2,vibe-check,Vibe Check,B2C,"1,000 signups"
+b2,ledgerly,Ledgerly,B2C,"1,000 signups"
+b2,squawkwire,SquawkWire,B2C,"1,000 signups"
+b2,stratlab,StratLab,B2C,"1,000 signups"
+b2,closet-stylist,Closet Stylist,B2C,"1,000 signups"
+b2,get-plont,Get Plont,B2C,"1,000 signups"
+b2,plantpal,Plantpal,B2C,"1,000 signups"
+b2,boomerang,Boomerang,B2C,"1,000 signups"
+b2,decluttermac,DeClutterMac,B2C,"1,000 signups"
+b2,habitforge-tracker,HabitForge Tracker,B2C,"1,000 signups"
+b2,kept,kept,B2C,"1,000 signups"
+b2,makehabit,makehabit,B2C,"1,000 signups"
+b2,meet2tracker,Meet2Tracker,B2C,"1,000 signups"
+b2,minutes,Minutes,B2C,"1,000 signups"
+b2,noteorious,Noteorious,B2C,"1,000 signups"
+b2,pocket-social,Pocket Social,B2C,"1,000 signups"
+b2,shotlist,Shotlist,B2C,"1,000 signups"
+b2,soundbuddy,SoundBuddy,B2C,"1,000 signups"
+b2,tabzero,Tabzero,B2C,"1,000 signups"
+b2,terms-apply,Terms Apply,B2C,"1,000 signups"
+b2,uhgfix,Uhgfix,B2C,"1,000 signups"
+b2,creative-studio,Creative Studio,B2C,"1,000 signups"
+b2,justwriteit,JustWriteIt,B2C,"1,000 signups"
+b2,perkeasy,PerkEasy,B2C,"1,000 signups"
+c1,ai-hunt,AI Hunt,B2C,"1,000 signups"
+c1,buskalong,BuskAlong,B2C,"1,000 signups"
+c1,create-or-die,Create or Die,B2C,"1,000 signups"
+c1,firstpage,FirstPage,B2C,"1,000 signups"
+c1,joblossbyai,joblossbyai,B2C,"1,000 signups"
+c1,make-me-cool,Make Me Cool,B2C,"1,000 signups"
+c1,omegalul,Omegalul,B2C,"1,000 signups"
+c1,post-flow,Post Flow,B2C,"1,000 signups"
+c1,rythmic-beats,Rythmic Beats,B2C,"1,000 signups"
+c1,the-docket-dispatch,The Docket Dispatch,B2C,"1,000 signups"
+c1,trendizz-studio,Trendizz.studio,B2C,"1,000 signups"
+c1,vantage-daily,Vantage Daily,B2C,"1,000 signups"
+c1,adya-capital,Adya Capital,B2C,"1,000 signups"
+c1,chaptr,Chaptr,B2C,"1,000 signups"
+c1,depthlab,Depthlab,B2C,"1,000 signups"
+c1,f1-simulation-strategy,F1 Simulation Strategy,B2C,"1,000 signups"
+c1,heir-of-wisdom,Heir of Wisdom,B2C,"1,000 signups"
+c1,preppehle,PrepPehle,B2C,"1,000 signups"
+c1,think-more,Think More,B2C,"1,000 signups"
+c1,brain-train-101,Anonymous project,B2C,"1,000 signups"
+c1,bad-alibi,Bad Alibi,B2C,"1,000 signups"
+c1,chaos-theory,Chaos Theory,B2C,"1,000 signups"
+c1,founders-seat,Founder's Seat,B2C,"1,000 signups"
+c1,jelly-munch,Jelly Munch,B2C,"1,000 signups"
+c1,paper-toss,Paper Toss,B2C,"1,000 signups"
+c1,play-xi,Play XI,B2C,"1,000 signups"
+c1,supercharged,Supercharged,B2C,"1,000 signups"
+c1,vault-break,Vault Break,B2C,"1,000 signups"
+c1,whodunnit,WhoDunnit,B2C,"1,000 signups"
+c1,bloomie-mental-health,Bloomie Mental Health,B2C,"1,000 signups"
+c1,daytrac,Daytrac,B2C,"1,000 signups"
+c1,journaleaf,Journaleaf,B2C,"1,000 signups"
+c1,lunara,Lunara,B2C,"1,000 signups"
+c1,morrow,morrow,B2C,"1,000 signups"
+c1,peakx,PeakX,B2C,"1,000 signups"
+c1,sachlabel,SachLabel,B2C,"1,000 signups"
+c1,snitch-smoke,SNITCH-SMOKE,B2C,"1,000 signups"
+c1,whatnxt,WhatNxt,B2C,"1,000 signups"
+c2,badlingos,Anonymous project,B2C,"1,000 signups"
+c2,comicworld,Comicworld,B2C,"1,000 signups"
+c2,first-take,First Take,B2C,"1,000 signups"
+c2,infolio,Infolio,B2C,"1,000 signups"
+c2,little-tales,Little Tales,B2C,"1,000 signups"
+c2,narra,Narra,B2C,"1,000 signups"
+c2,picture-abhi-baaki-hai-indian-cinema-recommender,Picture Abhi Baaki Hai - Indian Cinema Recommender,B2C,"1,000 signups"
+c2,postwire,Postwire,B2C,"1,000 signups"
+c2,statscourt,Statscourt,B2C,"1,000 signups"
+c2,the-woof-chapter,The Woof Chapter,B2C,"1,000 signups"
+c2,unposted,Unposted,B2C,"1,000 signups"
+c2,window-safar,Window Safar,B2C,"1,000 signups"
+c2,anant,Anant,B2C,"1,000 signups"
+c2,compass,Compass,B2C,"1,000 signups"
+c2,duvidha,Duvidha,B2C,"1,000 signups"
+c2,footnotes,Footnotes,B2C,"1,000 signups"
+c2,netfix-lab,NetFix Lab,B2C,"1,000 signups"
+c2,speak-coach,Speak Coach,B2C,"1,000 signups"
+c2,karmanyemadan-glitchs-org,Vernacular,B2C,"1,000 signups"
+c2,atlaspong,Atlaspong,B2C,"1,000 signups"
+c2,braintrain,BrainTrain,B2C,"1,000 signups"
+c2,chaturanga,Chaturanga,B2C,"1,000 signups"
+c2,goat-cards-by-streak,GOAT Cards by Streak,B2C,"1,000 signups"
+c2,latebrake,LateBrake,B2C,"1,000 signups"
+c2,placeabrick,PlaceABrick,B2C,"1,000 signups"
+c2,solo-deleveling,SOLO DELEVELING,B2C,"1,000 signups"
+c2,usurp,Usurp,B2C,"1,000 signups"
+c2,wakeful,WakeFul,B2C,"1,000 signups"
+c2,asanalab,AsanaLab,B2C,"1,000 signups"
+c2,commit,Commit,B2C,"1,000 signups"
+c2,journal-along,Journal along,B2C,"1,000 signups"
+c2,luna,Luna,B2C,"1,000 signups"
+c2,medvault,MedVault,B2C,"1,000 signups"
+c2,nutrisathi,NutriSathi,B2C,"1,000 signups"
+c2,pehlu,Pehlu,B2C,"1,000 signups"
+c2,sathi,SATHI,B2C,"1,000 signups"
+c2,train-bold,Train Bold,B2C,"1,000 signups"
+c2,xyz,XYZ,B2C,"1,000 signups"
+d1,12th-man,12th Man,B2C,"1,000 signups"
+d1,ankiro,Ankiro,B2C,"1,000 signups"
+d1,bae-talk,Bae Talk,B2C,"1,000 signups"
+d1,cafextroverts-me,cafextroverts.me,B2C,"1,000 signups"
+d1,contingencyplan,ContingencyPlan,B2C,"1,000 signups"
+d1,dastaan,Dastaan,B2C,"1,000 signups"
+d1,dilliscenes,DilliScenes,B2C,"1,000 signups"
+d1,eatme,EATME,B2C,"1,000 signups"
+d1,expiry-radar,expiry radar,B2C,"1,000 signups"
+d1,fan-notch,Fan Notch,B2C,"1,000 signups"
+d1,fitfortrip,fitfortrip,B2C,"1,000 signups"
+d1,fundorfry,fundorfry,B2C,"1,000 signups"
+d1,gowonder,GoWonder,B2C,"1,000 signups"
+d1,kahi-chalo,Kahi Chalo,B2C,"1,000 signups"
+d1,karma-atlas,Karma Atlas,B2C,"1,000 signups"
+d1,kinly,Kinly,B2C,"1,000 signups"
+d1,kriya,kriya,B2C,"1,000 signups"
+d1,launchpad,LaunchPad,B2C,"1,000 signups"
+d1,little-moments,Little Moments,B2C,"1,000 signups"
+d1,make-belief,Make Belief,B2C,"1,000 signups"
+d1,munchy-mates,Munchy Mates,B2C,"1,000 signups"
+d1,nimantran,Nimantran,B2C,"1,000 signups"
+d1,offer-decoder,Offer Decoder,B2C,"1,000 signups"
+d1,orbit-2,ORBIT,B2C,"1,000 signups"
+d1,proof-of-work-wall,Proof-of-work Wall,B2C,"1,000 signups"
+d1,roastmaster,RoastMaster,B2C,"1,000 signups"
+d1,scanline,ScanLine,B2C,"1,000 signups"
+d1,scoreyard,Scoreyard,B2C,"1,000 signups"
+d1,sherpa,Sherpa,B2C,"1,000 signups"
+d1,shipit-studio,ShipIt Studio,B2C,"1,000 signups"
+d1,signal,Signal,B2C,"1,000 signups"
+d1,sue-your-friend,Sue Your Friend,B2C,"1,000 signups"
+d1,ten-ring,Ten Ring,B2C,"1,000 signups"
+d1,the-patterns,The Patterns,B2C,"1,000 signups"
+d1,tuckedin,TuckedIn,B2C,"1,000 signups"
+d2,adda,Adda,B2C,"1,000 signups"
+d2,aiornot,Anonymous project,B2C,"1,000 signups"
+d2,bond,Bond,B2C,"1,000 signups"
+d2,clockwise,Clockwise,B2C,"1,000 signups"
+d2,couples-connect,Couples Connect,B2C,"1,000 signups"
+d2,devils-advocate,Devils Advocate,B2C,"1,000 signups"
+d2,draftly,Draftly,B2C,"1,000 signups"
+d2,ever-minutes,Ever Minutes,B2C,"1,000 signups"
+d2,facemesh,FaceMesh,B2C,"1,000 signups"
+d2,fan-wars-india,Fan Wars India,B2C,"1,000 signups"
+d2,fortune-cookie,fortune-cookie,B2C,"1,000 signups"
+d2,gita-for-me,Gita For Me,B2C,"1,000 signups"
+d2,judge-my-chat,Judge My Chat,B2C,"1,000 signups"
+d2,kaleshjudge,KaleshJudge,B2C,"1,000 signups"
+d2,kindred,Kindred,B2C,"1,000 signups"
+d2,kitchen-commune,kitchen commune,B2C,"1,000 signups"
+d2,kuchu-puchu,Kuchu Puchu,B2C,"1,000 signups"
+d2,linkup,Linkup,B2C,"1,000 signups"
+d2,magnetos,Magnetos,B2C,"1,000 signups"
+d2,mimir,Mimir,B2C,"1,000 signups"
+d2,neverloseawebsite-2,neverloseawebsite,B2C,"1,000 signups"
+d2,nxtmood,NxtMood,B2C,"1,000 signups"
+d2,onepager,OnePager,B2C,"1,000 signups"
+d2,orbit,Orbit,B2C,"1,000 signups"
+d2,roamio,Roamio,B2C,"1,000 signups"
+d2,roomly,Roomly,B2C,"1,000 signups"
+d2,scene-kya-hai,Scene Kya Hai?,B2C,"1,000 signups"
+d2,scroll-back,Scroll Back,B2C,"1,000 signups"
+d2,shipfolio,Shipfolio,B2C,"1,000 signups"
+d2,shotgun,shotgun,B2C,"1,000 signups"
+d2,soulloop,Soulloop,B2C,"1,000 signups"
+d2,tablecrew,TableCrew,B2C,"1,000 signups"
+d2,the-first-story,The First Story,B2C,"1,000 signups"
+d2,thread,Thread,B2C,"1,000 signups"
+d2,verdicts,Verdicts,B2C,"1,000 signups"

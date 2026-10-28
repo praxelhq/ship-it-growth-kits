@@ -30,6 +30,10 @@ Run `./check-kits.sh <slug>`, review the actual seven documents against `shared/
 
 No new kits completed yet. Count actual folders with seven validated documents and check the remote before changing this statement. Research and scheduling are not completed kits.
 
+## Active ownership
+
+The user subsequently explicitly authorized subagents. Eight writers now have disjoint assignments in `roster/production-assignments.csv`: a1 37, a2 36, b1 34, b2 33, c1 38, c2 38, d1 35, d2 35. Their task names are `business_a1`, `business_a2`, `tools_b1`, `tools_b2`, `media_c1`, `media_c2`, `consumer_d1`, `consumer_d2`. Each owns only its assigned kit folders and uniquely prefixed `shared/<group>-*.md` notes. **Only the main agent stages, commits and pushes.** Writers report `READY <slug>` after their per-kit checks; inspect that complete kit before committing it. Do not start duplicate writers while these are active.
+
 ## Next work
 
-Finish Astitva from verified live evidence, then PitchPanel, Adya Capital and Postifyy. Continue through the remaining lane tables, clustering related buyers before writing. The original lane files remain the source queue; an entry there can already have been completed, so check `kits/<slug>/` first.
+Integrate each writer's READY kits and shared notes, review the seven actual files, run the verifier, commit only that kit and push immediately. Cross-lane coordination runs directly between paired writers, with the main agent retaining authority over shared invitation windows. The original lane files remain the source queue; an entry there can already have been completed, so check `kits/<slug>/` first.
