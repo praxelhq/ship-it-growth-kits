@@ -1,6 +1,6 @@
 # JobLossByAI — Positioning
 
-**Live:** https://joblossbyai.online/ · **Profile:** https://shipped.money/p/joblossbyai
+**Live:** https://joblossbyai.online/ · **Category:** Content and media · **Profile:** https://shipped.money/p/joblossbyai
 
 **Sell a task conversation, not fear of losing a livelihood.** Actual headline checked 29 October: “Every job is 31 kinds of work.” CTA: “See your exposure profile,” leading to the job/optional-industry form at `#start`. The form's visible note says Claude only, India May 2026, estimates of use rather than layoffs. No price was shown. Public job samples are open; fuller material is labelled “With email.” No report email was requested in research.
 
