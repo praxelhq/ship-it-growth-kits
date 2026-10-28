@@ -1,6 +1,6 @@
 # dumdum — Positioning
 
-**Live:** https://getdumdum.app/ · **Profile:** https://shipped.money/p/dumdum · Checked 29 October 2026.
+**Live:** https://getdumdum.app/ · **Category:** Productivity · **Profile:** https://shipped.money/p/dumdum · Checked 29 October 2026.
 
 Your first user is a Windows student who wants a small desktop companion and a note/reminder one click away. Start with the creature's personality and a useful reminder, not a sprawling document-conversion/AI/system-monitor bundle. The fun gets attention; a reminder the user actually receives earns a return visit.
 
