@@ -1,5 +1,7 @@
 # Engage — Positioning
 
+**Live:** https://engage.neuronlab.in/ · **Category:** SaaS · **Profile:** https://shipped.money/p/engage
+
 Checked 29 October 2026 against [engage.neuronlab.in](https://engage.neuronlab.in/), its rendered controls and [data notice](https://engage.neuronlab.in/privacy.html). Actual headline: **“See who has gone quiet in your meeting, while it is still running.”** CTAs: **“Try the live demo”** to `/try` and **“Start a meeting”** to the creation form. **“Host sign in”** is separate. No public price or free-plan limit was shown; do not invent a subscription or a free-forever offer.
 
 ## The first paying business to serve
