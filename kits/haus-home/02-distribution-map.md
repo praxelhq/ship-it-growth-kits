@@ -124,6 +124,6 @@ Tenants outnumber owners 40:1 and they're on Reddit, Instagram and college group
 | LinkedIn (chains) | 3 | 15 |
 | **Total** | **~120** | **~325** |
 
-**Honest read:** 1,000 PG-owner signups in 30 days is not realistic — the addressable list you can build and personally work in a month is roughly 800–1,000 owners, and nobody converts a cold list at 100%. **120–325 signups, all real property owners with beds in them, is a strong month.**
+**Honest read:** the addressable list you can build and personally work in one month is roughly 800–1,000 owners, and nobody converts a cold list at 100%. **120–325 signups, all real property owners with beds in them, is a strong month** — and your board target is ten active owners ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)), which the first two field days should clear.
 
-If a four-figure number is required, the free agreement/receipt generators are the honest route to it — report them separately from owner signups.
+Build the free agreement/receipt generators because they earn doorstep conversations and rank in search. They are a channel in this table, not a signup count — report their uses separately from owner signups, always.

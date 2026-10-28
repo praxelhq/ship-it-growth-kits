@@ -32,6 +32,8 @@ Also:
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **1,000 signups in 30 days.** For a downloadable paid app, define "signup" clearly — and report all three, because they tell different stories:
 
 | Metric | 30-day target | Notes |

@@ -4,7 +4,7 @@
 
 ---
 
-## Who your first 1,000 users actually are
+## Who your first customers actually are
 
 This is the hardest ICP in wave 1, and it is worth being blunt about why: **your buyer is not online in the places growth advice assumes.** They are not on Reddit, Product Hunt, Hacker News or X. A generic launch playbook will get you zero users. This kit is built around that.
 

@@ -31,6 +31,8 @@ Your product has an unusual funnel: **a guest start is nearly frictionless, so y
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **1,000 signups in 30 days.** Of the ten wave-1 projects, you have the most realistic shot at this, because the product is free and requires no account.
 
 | Stage | Rate | Needed |

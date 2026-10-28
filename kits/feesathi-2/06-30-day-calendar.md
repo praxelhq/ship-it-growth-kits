@@ -71,7 +71,7 @@ Everything else is scheduled around those two.
 
 1. **Did you fix the Android signup flow on day 1?** If it's broken, everything else is wasted.
 2. **Did you hit 30 WhatsApp messages a weekday?** 600+ messages is the floor. This channel converts at 2–4x anything else you have.
-3. **Did a teacher-creator say yes?** It's the only path to a four-figure month. Pitch 25, expect 2–3 yeses, and make it trivially easy for them (send them a ready script and a demo page in their name).
+3. **Did a teacher-creator say yes?** It's the one thing that could make this a four-figure month rather than a three-figure one. Pitch 25, expect 2–3 yeses, and make it trivially easy for them (send them a ready script and a demo page in their name). Upside, not the plan — your ten come from WhatsApp.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-## Who your first 1,000 users actually are
+## Who your first customers actually are
 
 Your page already says it: *"Made for small Shopify brands."* Make it narrower still.
 

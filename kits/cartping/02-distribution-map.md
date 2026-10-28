@@ -1,6 +1,6 @@
 # CartPing — Distribution map
 
-**Read this first:** you are a B2B tool for a buyer who is findable, nameable and reachable one at a time. That makes this the *least* community-driven kit in wave 1 and the most outbound-driven. Reddit will not get you 1,000 signups. **Direct outreach to named Shopify stores will.** Weight your month accordingly.
+**Read this first:** you are a B2B tool for a buyer who is findable, nameable and reachable one at a time. That makes this the *least* community-driven kit in wave 1 and the most outbound-driven. Reddit will not get you ten paying stores. **Direct outreach to named Shopify stores will.** Weight your month accordingly.
 
 Reach numbers are realistic expected impressions or replies, not audience sizes.
 
@@ -119,4 +119,6 @@ Publish on your own blog, cross-post to LinkedIn and Medium. Realistic month-1 t
 | Peerlist + directories | 10 | 40 |
 | **Total** | **~120** | **~365** |
 
-**Be honest with yourself: 1,000 signups in 30 days for a B2B tool with a 2,000-store addressable list you build by hand is not realistic.** What *is* realistic is 120–365 signups who are all real stores, and a Shopify App Store listing in flight that makes month 2–3 look completely different. If the board's target is 1,000 free signups, the only honest route is a free, ungated tool (see `04`, Fix 6) that a much wider audience will use.
+**Your board target is 10 active stores, not a four-figure signup count** ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)) — which is the right shape of number for a tool with a 2,000-store addressable list you build by hand. This plan delivers 120–365 real-store signups, and a Shopify App Store listing in flight that makes month 2–3 look completely different.
+
+So build the free calculator (`04`, Fix 6) because it feeds this funnel and ranks, **not** to inflate a signup number. Nobody is counting its uses as customers any more.

@@ -46,6 +46,8 @@ One row per Reel. 60 rows by day 30.
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **Jagah is the one wave-1 project where 1,000 in 30 days is genuinely achievable**, and `02` clears it even at the low end. So the target should be set honestly high — and the *real* goalposts moved past installs.
 
 | Metric | 30-day target | What it means |

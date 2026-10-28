@@ -69,7 +69,7 @@ Not where you'd guess.
 
 ## Tier 4 — The free tool that gets you volume 🟠
 
-**This is how you reconcile "40 onboarded restaurants" with "1,000 signups".**
+**This is your top of funnel, not your scoreboard.** Its uses do not count toward your ten active restaurants ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)) — build it because it earns you the conversation at the counter and ranks for queries owners actually type.
 
 Build a free, ungated **Review Reply Generator**: paste any review, pick a tone, get a reply. No account. Works today, no onboarding, no waitlist.
 
@@ -119,6 +119,6 @@ Peerlist, Product Hunt, r/SideProject, Indian startup communities. **A few hours
 | WhatsApp / Facebook owner groups | 5 | 25 |
 | Free tool → onboarded | 3 | 20 |
 | **Onboarded total** | **~62** | **~170** |
-| **Plus: free tool uses (counts as signups)** | **300** | **1,500** |
+| **Plus: free tool uses (a channel, not a customer count)** | **300** | **1,500** |
 
-**Report both numbers.** 62 real onboarded restaurants in one city is a strong month for a pre-launch B2B product and a much better foundation than 1,000 cold emails. The free tool is how you also show a four-figure number without pretending it's the same thing.
+**Report both numbers, on separate lines.** 62 real onboarded restaurants in one city is a strong month for a pre-launch B2B product and a much better foundation than 1,000 cold emails. Your board target is ten active restaurants ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)); free-tool uses never count toward it.

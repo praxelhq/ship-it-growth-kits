@@ -2,13 +2,20 @@
 
 You shipped a product. Almost nobody has used it. This kit is the thirty days that fixes that.
 
-Target: **1,000+ signups in a month, on zero budget.** Organic only. No ads, no influencer payments, no tools you have to buy.
+Zero budget. Organic only. No ads, no influencer payments, no tools you have to buy.
+
+Your target depends on who you sell to:
+
+- **Selling to consumers → 1,000 signups in 30 days.**
+- **Selling to businesses → 10 real customers in 30 days.**
+
+Ten is not a typo, and it is not easy. Read [`TARGET-POLICY.md`](TARGET-POLICY.md) once before you start — it defines which one you are and what counts. Your `07-measurement.md` already has your number in it.
 
 ---
 
 ## The one idea behind every kit
 
-You do not need 1,000 people to like your product. You need to find the 200 people who already have the exact problem you solved, in the places they already hang out, and not waste a single post on anyone else.
+You do not need the whole internet to like your product. You need to find the people who already have the exact problem you solved, in the places they already hang out, and not waste a single post on anyone else. For a consumer app that's a few hundred of them; for a business product it can be twenty phone numbers.
 
 That is why every kit starts with **positioning** (who, exactly) and only then goes to **channels** (where they are) and **copy** (what to say there). Skip the first two and the third is just noise.
 
@@ -20,7 +27,7 @@ Read them in this order. They build on each other.
 
 | File | What it is | When you touch it |
 | --- | --- | --- |
-| `01-positioning.md` | Who your first 1,000 users actually are, your one-line pitch, your wedge use case | Day 0. Read once, internalise it. |
+| `01-positioning.md` | Who your first users actually are, your one-line pitch, your wedge use case | Day 0. Read once, internalise it. |
 | `02-distribution-map.md` | The exact subreddits, Discords, directories, newsletters and accounts where those people are, with reach estimates and the posting rules of each | Day 0, then every day as a lookup |
 | `03-copy-pack.md` | Ready-to-post text for every one of those channels | Every day. Copy, adjust one detail, post. |
 | `04-landing-page-fixes.md` | Specific changes to **your actual live page**, ranked by impact | Day 0–2. Do these **before** you drive traffic. |
@@ -70,7 +77,7 @@ Never post the same text to two communities. Rewrite the first two sentences eac
 
 - **It does not include finished videos.** `05` gives you scripts and shot lists. You record them on your phone. A rough, real video from the founder outperforms a polished one.
 - **It does not include paid acquisition.** Budget is zero by design.
-- **It does not guarantee 1,000 signups.** It gives you roughly 15,000–60,000 addressable impressions across the month and a landing page that converts a fair share of them. Executed properly, 1,000 is reachable. Half-executed, it is not.
+- **It does not guarantee your number.** It gives you roughly 15,000–60,000 addressable impressions across the month (or, if you're B2B, a named list of businesses and a route to each one) and a landing page that converts a fair share of them. Executed properly, the target is reachable. Half-executed, it is not.
 
 ---
 

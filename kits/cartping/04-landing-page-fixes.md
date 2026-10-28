@@ -64,7 +64,7 @@ The CTA implies setup, integration, a Shopify connection. That's a 10-minute dec
 
 > `See what you're losing →` — a free, no-signup calculator: *monthly orders + average order value → "you're likely abandoning ₹X a month"*.
 
-This does three things: it gives the visitor the number from Fix 1 about *their own* store, it captures an email at the end for the result, and it is a shareable free tool you can post in every Facebook group without it being a pitch. **This is also the answer to the "1,000 signups" problem in `02`** — the calculator can be used by thousands of stores you'd never convert to the paid product.
+This does three things: it gives the visitor the number from Fix 1 about *their own* store, it captures an email at the end for the result, and it is a shareable free tool you can post in every Facebook group without it being a pitch. It is a top-of-funnel and SEO asset, not a signup-count shortcut — your board number is ten active stores ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)), and calculator uses don't count toward it.
 
 ---
 

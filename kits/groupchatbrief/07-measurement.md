@@ -39,6 +39,8 @@ A plausible shape today is something like 100 clicks → 50 downloads → 15 wor
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **1,000 signups in 30 days.** Be precise about what counts, and report all three:
 
 | Metric | 30-day target | Notes |

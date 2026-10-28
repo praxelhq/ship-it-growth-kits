@@ -28,17 +28,23 @@ Install **Microsoft Clarity**. Connect **Google Search Console** too — your fr
 
 ## The number to beat
 
-**1,000 signups in 30 days** is the brief's target. For this buyer, here's the honest read:
+**FeeSathi is B2B. Your board target is 10 customers in 30 days** — see [`TARGET-POLICY.md`](../../TARGET-POLICY.md). A teacher is buying this to run her teaching business, which puts you on the business side of the policy, even though she is one person.
+
+Your ten: **ten teachers with at least five real students each, who collected a fee through you in the last seven days.** Not ten signups — ten teachers whose money moved.
+
+Ten is the floor. **This plan aims at 300 signups:**
 
 | Metric | 30-day target | Why |
 | --- | --- | --- |
-| **Teachers who created a page** | **300** | Realistic from the plan in `02` without a creator mention |
+| **Board target: teachers collecting fees through you** | **10**, ≥5 students each | The bar. Her money moved this week. |
+| **Teachers who created a page** | **300** | What the plan in `02` delivers without a creator mention |
 | **Teachers who added ≥1 student** | **180** (60% of signups) | The only signups that mean anything |
 | **Teachers with ≥5 students** | **90** | These are real users who will still be here in month 3 |
-| **Receipts generated** | **1,200** | Includes people who never sign up — a legitimate reach number and your SEO seed |
-| **Stretch: 1,000 signups** | reachable **only if** a teacher-creator mention lands | One YouTube mention to the right audience does this in a weekend |
+| **Receipts generated** | **1,200** | A reach number and your SEO seed — **not** a customer count |
 
-Working backwards on the 300:
+The ten is reachable in week one from WhatsApp alone, and it is a far better use of week one than chasing a creator mention. **Get the first ten yourself, by hand, by phone.** Then the 300 is a distribution problem rather than a product one — and you'll know which, because you'll have watched ten people use it.
+
+### Working backwards on the 300
 
 | Stage | Rate | Needed |
 | --- | --- | --- |

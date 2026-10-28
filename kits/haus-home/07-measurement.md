@@ -45,20 +45,21 @@ Update it the same evening, every field day. Never the next morning.
 
 ## The number to beat
 
-The brief says 1,000 signups in 30 days. **For this product that number is not reachable honestly, and the kit should say so rather than pretend.** The list you can personally build and work in one corridor in a month is roughly 800–1,000 owners, and no cold list converts at 100%.
+**HAUS HOME is B2B. Your board target is 10 customers in 30 days** — see [`TARGET-POLICY.md`](../../TARGET-POLICY.md). Ten PG owners with their real beds in the product, who opened it in the last seven days without you asking, and whose phone numbers are in your corridor spreadsheet.
 
-**Report two numbers and be explicit about the difference.**
+Ten is the floor. **This plan aims at 140**, because eleven field days in a dense corridor genuinely support it:
 
 | Metric | 30-day target | What it means |
 | --- | --- | --- |
-| **Owners signed up** | **140** | The real business. Each one is a property owner with beds in it. |
+| **Board target: active owners** | **10** | The bar. Real beds entered, opened it this week, you know his name. |
+| **Owners signed up** | **140** | What this plan is calibrated to deliver |
 | **Properties with ≥10 beds entered** | **85** (61%) | Actually adopted, not just curious |
 | **Properties where a tenant paid via UPI link** | **45** | The ones that got real value. **Watch this one.** |
 | **Pro (paid) conversions** | **12** | Month-1 revenue signal, not a month-1 goal |
-| **Free generator uses** | **900** | Legitimate reach; a much wider, shallower audience |
-| **Combined "signups"** | **~1,040** | The honest composition of a four-figure headline |
 
-If the board wants a four-figure number, the generator is the honest route to it. **Report it on its own line, never blended into owner signups.**
+**You can clear the ten in your first two field days.** Thirty visits gets you ten owners if the bed map lands, and the board holds you to that and nothing more. Everything past it is yours to go get.
+
+What changes under the new policy: **the free agreement generator is no longer a way to manufacture a headline number.** Build it if it earns you doorstep conversations and SEO — it does — but it is a channel, not a customer count. Nine hundred anonymous generator uses and four live PGs is a bad month. Four generator uses and twelve live PGs is a good one. Report the two on separate lines and never add them together.
 
 ### Working backwards on the 140
 

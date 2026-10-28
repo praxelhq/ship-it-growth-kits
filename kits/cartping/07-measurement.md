@@ -26,16 +26,21 @@ Install **Microsoft Clarity** on cartping.online. Fill this in before you send a
 
 ## The number to beat
 
-The brief's target is 1,000 signups in 30 days. **For this product, be honest with the board about what that means.**
+**CartPing is B2B. Your board target is 10 customers in 30 days** — see [`TARGET-POLICY.md`](../../TARGET-POLICY.md). Ten Shopify stores, each with the app connected, alerts firing, and a human who has sent at least one recovery message in the last seven days. You know all ten owners' names.
 
-Two different numbers, and you should report both:
+That is the floor. **This plan aims at 150**, because the distribution map genuinely supports it:
 
 | Metric | 30-day target | What it means |
 | --- | --- | --- |
-| **Qualified store signups** | **150** | Real Shopify stores that signed up. This is the number that matters commercially. |
-| **Total signups incl. free calculator** | **1,000** | Only reachable via the ungated loss calculator (`04` Fix 4), which a much wider audience will use. Legitimate, but don't confuse it with the first number. |
+| **Board target: active stores** | **10** | The bar. Connected, alerts fired, used in the last 7 days. |
+| **Qualified store signups** | **150** | What this plan is calibrated to deliver |
+| **Of those, setup completed** | **90** (60%) | The honest number |
 
-Working backwards on the first:
+**Clear the ten in week one.** Ten is roughly thirty good conversations, and your week-1 DM quota alone delivers that. Get them onboarded, then spend weeks 2–4 finding out whether 150 is real — with ten live stores behind you, every message you send afterwards is a different message.
+
+Do not count free calculator uses as customers. Track the calculator as a channel (it feeds the top of this funnel and it's a good idea), never as a signup number.
+
+Working backwards on the 150:
 
 | Stage | Rate | Needed |
 | --- | --- | --- |

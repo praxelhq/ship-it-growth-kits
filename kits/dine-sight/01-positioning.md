@@ -8,17 +8,17 @@
 
 Your page says `Launching Soon`, *"Early access is open"*, and *"Request access and we switch on AI drafts and Google review sync as we onboard you."* Zomato and Swiggy are "coming next".
 
-So the honest goal for this month is **not 1,000 signups** — it is:
+So the goal for this month is **not a signup count** — and the board agrees: you are B2B, and your target is **10 active restaurants** ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)). What this kit aims you at:
 
-> **40–80 real restaurants in one city, onboarded by hand, with the Google integration actually working for them.**
+> **40–80 real restaurants in one city, onboarded by hand, with the Google integration actually working for them — the first ten of them inside two weeks.**
 
 That is worth more than 1,000 email addresses from people who will have forgotten you by the time you launch. A waitlist that goes cold is the most common way a pre-launch B2B product dies.
 
-**If the brief's 1,000-signup target must be met, the only honest route is a free, ungated tool** (see `04`, Fix 5) that any restaurant can use today without onboarding. That's a legitimate second number, and this kit includes it — but don't let it distract from the 40–80.
+Build the free, ungated tool in `04` Fix 5 **because it opens conversations and ranks in search**, not to manufacture a signup number. Its uses do not count toward your ten.
 
 ---
 
-## Who your first 1,000 users actually are
+## Who your first customers actually are
 
 **The owner or manager of an independent restaurant in one Indian city, with 50–800 Google reviews and a rating between 3.6 and 4.3.**
 

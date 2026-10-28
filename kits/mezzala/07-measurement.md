@@ -33,6 +33,8 @@ Capture it today, with the sign-in wall still in place. When the front page ship
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **1,000 signups in 30 days.** Here, "signup" = session started. But measure the honest version alongside it.
 
 | Metric | 30-day target | Why |

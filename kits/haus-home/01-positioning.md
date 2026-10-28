@@ -4,7 +4,7 @@
 
 ---
 
-## Who your first 1,000 users actually are
+## Who your first customers actually are
 
 **The owner of one PG or hostel with 20–80 beds, in a student or IT corridor of an Indian city, currently running it from a notebook and a WhatsApp group.**
 

@@ -30,6 +30,8 @@ You are a copy-paste product; without events you are blind.
 
 ## The number to beat
 
+*B2C target — **1,000 signups in 30 days**. What counts, and why B2B projects get a different number: [`TARGET-POLICY.md`](../../TARGET-POLICY.md).*
+
 **1,000 signups in 30 days.**
 
 Working backwards with honest rates for a free developer tool:

@@ -34,15 +34,20 @@ One row per restaurant. Columns:
 
 ## The number to beat
 
-The brief says 1,000. **Report two numbers and be explicit about the difference.**
+**Dine Sight is B2B. Your board target is 10 customers in 30 days** — see [`TARGET-POLICY.md`](../../TARGET-POLICY.md). Ten restaurants with Google connected, each having posted at least one reply through you in the last seven days. You know the owner or the manager by name.
+
+Ten is the floor. **This plan aims at 60:**
 
 | Metric | 30-day target | What it means |
 | --- | --- | --- |
-| **Restaurants onboarded (Google connected)** | **60** | The real business. Hard-won, high value. |
+| **Board target: active restaurants** | **10** | The bar. Google connected, replied this week, you know who to call. |
+| **Restaurants onboarded (Google connected)** | **60** | What this plan is calibrated to deliver |
 | **Restaurants that posted ≥1 reply** | **40** (67%) | The only ones that actually got value |
 | **Auto-post enabled** | **12** | Your most committed users |
-| **Free-tool uses (counts as signups)** | **800** | Legitimate reach; a much wider, shallower audience |
-| **Combined "signups"** | **~860** | The honest composition of the headline number |
+
+Ten restaurants is one good week of walking one market. Get there fast — a wall of ten real logos changes every conversation after it.
+
+**The free tool is a channel, not a signup count.** It earns you the conversation at the counter; it does not count toward the ten. Report its uses on their own line.
 
 Working backwards on the 60:
 

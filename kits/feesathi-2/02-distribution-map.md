@@ -132,4 +132,4 @@ One good answer per day, 20 minutes each. Realistic: **200–2,000 views each, p
 | Free receipt generator (organic, month 1) | 10 | 50 |
 | **Total** | **~150** | **~900** |
 
-**Honest read:** 1,000 in 30 days is reachable only if a teacher-creator collaboration lands. Without one, expect 150–400 — all of them real teachers, which is worth more than 1,000 curious developers. The free-tool SEO is what makes month 4 look nothing like month 1. Pitch the creators in week 1, not week 3.
+**Honest read:** expect 150–400 signups without a creator collaboration, and more if one lands — all of them real teachers, which is worth more than 1,000 curious developers. Your board target is ten teachers actually collecting fees through you ([`TARGET-POLICY.md`](../../TARGET-POLICY.md)); the WhatsApp list alone clears that in week one, so the creator pitch is upside, not the plan. Pitch them in week 1 anyway, not week 3. The free-tool SEO is what makes month 4 look nothing like month 1.
