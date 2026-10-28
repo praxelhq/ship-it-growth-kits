@@ -1,0 +1,11 @@
+# Sue Your Friend — Measurement
+
+**Target: 1,000 signups in 30 days**, labelled unique genuine harmless-case starters for this no-account product. Activation beside it: **a complete full-case preview received and read**. Report paid sharing/downloads and recipient views separately. A public sample, page reload, waitlist entry or purchase click is not an activated creator.
+
+Day-0 genuine creators, completed cases, payments, leaderboard and analytics are unknown. Record actual authorized aggregate counts with dates. [Clarity](https://clarity.microsoft.com/) setup/masking was not verified; exclude names, stories, case content, private links and checkout information from replay/events. Do not ask users to send a private story as proof of completion. Anonymous deduplication has limits; disclose them without fingerprinting people.
+
+Track source→case task started→submission accepted→full preview returned→voluntary read/usefulness check. Keep internal synthetic demos separate. Genuine users should still use fictional nicknames and harmless content; no private identity is necessary for activation. One creator generating several cases remains one new person, and the named fictional defendant is not another registered user.
+
+`06` budgets ten host invitations, two circle bulletins and three owned posts. `02` guesses 8–31 starts before overlap, perhaps 4–20 completed previews. Nothing establishes 1,000. At an assumed 25% qualified-visit→case-start rate, 1,000 needs 4,000 qualified unique visits. This is a scenario requirement, not predicted traffic; optional launch traffic remains zero until it happens. Do not assume paid sharing creates a free viral loop.
+
+W1: if generation fails or fictional scope/price is unclear, fix before reach. W2: if previews finish but jokes feel personal or serious, change input/output boundaries. W3: unwanted sharing complaints pause promotion; do not pressure users to distribute a case. W4: expand only sources producing welcome harmless use, otherwise report the gap. Revenue requires confirmed real payment and delivered sharing/export access, not reading the $4.99 card. No legal effect, real accusation or interpersonal benefit is inferred from usage.
