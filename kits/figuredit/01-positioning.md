@@ -1,5 +1,7 @@
 # FiguredIt — Positioning
 
+**Live:** https://figuredit.in/ · **Category:** SaaS · **Profile:** https://shipped.money/p/figuredit
+
 Checked 29 October 2026 against [figuredit.in](https://figuredit.in/) and [pricing](https://figuredit.in/pricing). Actual headline: **“Figure out who your best customers are.”** CTA: **“START FREE ANALYSIS”**, leading to authentication, with **“VIEW PRICING”** and a public `/demo` alternative. Upload, analysis, account creation, exports and checkout were not tested.
 
 Your strongest caveat is already on the page: **a lead list cannot prove who will buy**. Treat the ICP as a working hypothesis until outreach, deal outcomes and retention support it. A 91.5 sample score is not a 91.5% purchase probability.
