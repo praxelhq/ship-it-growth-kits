@@ -1,0 +1,11 @@
+# TuckedIn — Measurement
+
+**Target: 1,000 signups in 30 days**, labelled unique genuine parent care-setup starters where the current public path has no observed account gate. Verify actual identity/storage behavior before outreach; if accounts are required in the true production flow, count unique eligible parent accounts instead and state the correction. Never add both totals. Activation beside starts is **a completed parent-checked care brief used by a known sitter on a real shift, with an actual recap received**.
+
+Day-0 real users, care plans, shifts, account counts, leaderboard and analytics are unknown. Demo children/shift history are not baseline users or real care. Record dated aggregate counts from authorized systems only. [Clarity](https://clarity.microsoft.com/) setup/masking is unverified; exclude all family/child/medical/address/WiFi/photo/shift-link/PIN content from replay/events. Do not collect a care brief to prove activation; ask adults about process completion without contents.
+
+Track source→genuine setup→plan checked→intended sitter access→actual shift update/recap→access ended. Separate synthetic navigation tests from real family use. A generated link or opened demo is not an actual handoff. Deduplicate retries and multiple child profiles; one household/person is not a new signup for every child or shift. Disclose anonymous counting limits rather than fingerprint families.
+
+`06` budgets ten household invitations, two parent bulletins and three owned posts. `02` guesses 5–16 genuine setup attempts, perhaps 2–7 complete real handoffs after controls work; no evidence supports 1,000. At an assumed 20% qualified-visit→setup rate, 1,000 needs 5,000 qualified unique visits. This is a scenario requirement, not forecast. Unresolved trust gates mean zero real-data acquisition, not permission to intensify claims.
+
+W1: access/support errors pause real intake. W2: if people understand the plan but cannot share safely, fix sharing before new families. W3: expiry, family separation or unserved data requests take priority over reach. W4: expand only sources producing understood, consented real handoffs; report the gap otherwise. No app-use metric establishes safer care, correct medical instructions or prevented harm. Privacy-policy promises are not independently verified controls.
