@@ -7,7 +7,7 @@ Checked 29 October 2026 against rendered product pages. This writer note coordin
 | Cluster | Projects and assigned jobs | Shared organizer window |
 | --- | --- | --- |
 | Reading and curiosity | First Page: taste-led reader friendships; Chaptr: access-first book community; Make Me Cool: five-minute story you can retell; Depthlab: explain and apply one concept; Think More: your own answer before AI; Heir of Wisdom: visual reasoning; PrepPehle: past-paper priorities | c1 Days 4–7; c2 reading Days 10–13 |
-| Party games | Bad Alibi: 4–6 friends, 30-minute missing-trip-money mystery; WhoDunnit: larger in-person group, personalized roles | c1 Days 10–13; c2 games Days 17–20 |
+| Party games | Bad Alibi: 3–10 friends, 35-minute Quick or 75-minute missing-trip-money mystery; WhoDunnit: larger in-person group, personalized roles | c1 Days 10–13; c2 games Days 17–20 |
 | Short browser challenges | Chaos Theory: neon survival and private rooms; Jelly Munch: snake break; Paper Toss: wind-and-aim challenge; Vault Break: timed riddle locks; F1 Simulation: decision explanation; Play XI: fantasy lineup evidence | Different hooks and separate existing friend circles; do not send seven game links into one group |
 | Daily reflection | Bloomie: mood check-ins; Journaleaf: type a kind sentence, grow a flower; Morrow: future-self visualization; Lunara: sleep observations for perimenopause | c1 Days 24–27; c2 wellbeing Days 15–18 |
 | Gym and evidence | PeakX: plateau-check-to-weekly-plan; WhatNxt: next exercise using available equipment; SachLabel: examine supplement sources; Daytrac: records across devices | c1 Days 17–20; c2 gym Days 24–27 |
@@ -36,6 +36,7 @@ Every reach figure in a kit is a planning assumption until the student's own res
 - Snitch-Smoke returned a login-required extraction result. This is not proof of an outage; inspect the accessible page or describe the authentication requirement honestly.
 - Founder's Seat returned only loading text; verify its interactive app before asserting that a visible landing hero or checkout exists.
 - BuskAlong offers public-domain charts and requires authorized local imports for copyrighted songs. Do not advertise commercial-song lyrics as bundled, or publish them in the kit.
+- [Bad Alibi](https://badalibi.lol/), checked 29 October 2026, differs materially from the roster: 3–10 players, 35-minute Quick or 75-minute Standard, with a displayed $2 host price using LAUNCH50 against $3.99. The page says the $2 offer lasts until 30 November; recheck before quoting it later. Friends join free. Its [refund page](https://badalibi.lol/refunds) says setup/invitations are free and the host pays only when starting. No payment was submitted during research.
 - PostFlow's live page says two free posts, then $149/month for 21 posts. Do not silently change that to ₹149 or imply scheduling; the page says the user posts manually.
 - Bloomie's current page says gentle daily care, not that it solves every issue. Do not propagate its older roster tagline as a medical promise.
 - SachLabel's product count, scores and lab-report claims are site claims, not an independent supplement-safety audit. Retain source links and avoid turning a ranking into personal medical advice.

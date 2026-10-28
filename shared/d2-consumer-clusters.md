@@ -26,7 +26,7 @@ The d1 writer owns café QR adoption, DilliScenes hosted gatherings, ORBIT build
 
 ## Reflection, culture and making
 
-Gita for Me is a curated local preview, one personal thought per browser; ₹99/month is proposed and payments are disabled. SoulLoop is free/no account and begins with Sikh wisdom, more traditions coming. Kindred describes private journaling with tarot/astrology as open-ended reflection, not predictions. Fortune Cookie has one daily free cookie and ₹199/month Plus. The First Story sells source-backed name context and ₹499/30-day pass. Thread is a free photo-to-pattern studio with a $5 pack in explicit test checkout. None of these should be sold using unsupported religious, health, predictive or financial claims.
+Gita for Me is a curated local preview, one personal thought per browser; ₹99/month is proposed and payments are disabled. SoulLoop is free/no account and begins with Sikh wisdom, more traditions coming. Kindred describes private journaling with tarot/astrology as open-ended reflection, not predictions. Fortune Cookie has one daily free cookie and ₹199/month Plus. The First Story provides free source-backed name context and previews a ₹499/30-day pass; its premium page says payment is not available yet. Thread is a free photo-to-pattern studio with a $5 pack in explicit test checkout. None of these should be sold using unsupported religious, health, predictive or financial claims.
 
 ## Recovery and changed state
 
