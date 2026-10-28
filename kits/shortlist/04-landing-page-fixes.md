@@ -1,0 +1,11 @@
+# Shortlist — Landing-page fixes
+
+Read home/pricing 29 October 2026. Headline **“Shortlists your buyers actually open.”** CTA **“Request access →”**. Standard ₹499/month/advisor; early ₹99/₹299 first three monthly payments, then ₹499. Private workflow and payment not tested.
+
+1. **Make manual access clear.** Replacement beside CTA: **“Request Gurugram brokerage access. We review requests and arrange onboarding; submitting is not instant workspace access.”** Show real response expectations only after establishing them.
+2. **Qualify the open-rate promise.** Replacement headline **“A clearer project comparison for your buyer's phone.”** Support **“Match the brief, inspect the facts and share up to four explained options.”** No guaranteed buyer engagement.
+3. **Date source status.** Current 27/23/five counts and HARERA labels need freshness. Replacement badge **“Source checked on the date shown; confirm current developer and official information before deciding.”** Explain verified versus unchecked records. Don't imply regulatory approval of the recommendation or guaranteed delivery/title.
+4. **Keep missing values visible.** Existing “Not published” is valuable. Add **“No published price/date found in the source reviewed. Ask for current written confirmation.”** Don't infer a value from another configuration, old brochure or nearby development.
+5. **Explain early pricing precisely.** Replacement **“Eligible early rate for your first three monthly payments; payment four onward ₹499/month/advisor. Confirm remaining places and final total before checkout.”** Static 10 of 10 left isn't verified scarcity. No invented free trial, taxes or lifetime discount.
+6. **Test private-link claims.** Replacement share note **“Share only with the intended buyer. A recipient may forward a link; withdraw it if access should end.”** Verify advisor isolation, unindexed metadata, withdrawal, caching and second-device behavior. A noindex tag is not authentication.
+7. **Show traceable reasons.** Replacement panel **“Matches this brief because… Source/date… Missing information…”** Test a brief with fewer than four valid matches; show fewer rather than padding. Fresh phone checks access request, login, buyer page and compare labels with fictional details. Keep buyer data out of replay.
