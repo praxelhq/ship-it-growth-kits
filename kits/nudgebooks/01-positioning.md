@@ -1,5 +1,7 @@
 # NudgeBooks — Positioning
 
+**Live:** https://www.nudgebooks.in/ · **Category:** SaaS · **Profile:** https://shipped.money/p/nudgebooks
+
 Checked 29 October 2026 in a real browser at [nudgebooks.in](https://www.nudgebooks.in/). Root redirects to `/login`. Actual headline and primary action: **“Sign in.”** Secondary CTA **“Create an account”** opens `/signup`, whose heading is **“Create your account.”** Email/password fields and an eight-character minimum are visible. No account was created and no documents were uploaded. This is a working public authentication route, not proof the site is dead.
 
 The public metadata promise is **“Collect client documents on time, without the chasing.”** The signed-in product, messaging providers, request lists, file storage and reminder behavior were not visible or tested. No public price or trial allowance was established. Do not invent automatic WhatsApp, GST filing, email ingestion, OCR or a free-forever plan.
