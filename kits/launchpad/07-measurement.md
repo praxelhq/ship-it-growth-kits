@@ -1,0 +1,11 @@
+# LaunchPad — Measurement, provisional recovery
+
+**Retained provisional B2C target: 1,000 signups in 30 days.** Actual buyer, signup event and activation remain unverified because the supplied domain fails resolution and the profile has no product description. Define the real account/install/meaningful-session event from the recovered build. Report its first useful completion beside it. Never count profile views, hosting logins or recovery conversations as product signups.
+
+Day-0 real users, useful actions, price, current leaderboard rank and analytics status are unknown. The [course profile](https://shipped.money/p/launchpad) has measurement panels; missing readings are not proof of zero users. Authored lines are not a product-use baseline. Record actual values, reporting dates and unavailable fields separately after authorized inspection.
+
+After recovery, verify [Clarity](https://clarity.microsoft.com/) is connected to the actual intended domain and excludes private input. Do not attach another project's analytics to fill a gap. Use minimum aggregate events: true first task started, completed/failed, actual signup if required and later voluntary return. Exact event names follow the real product. Exclude internal tests and duplicate retries without collecting unnecessary identities.
+
+W1: identity/public route/useful action evidence gate. W2: three actual tester attempts, defined signup/activation and access terms. W3: real buyer, verified alternative/price and two permitted channels. W4: report actual invitations, visits, signups, useful completions, returns and unresolved source gaps. If the domain remains unresolved, the acquisition result is blocked, not a fictional growth success.
+
+`06` schedules three usability testers, five interviews and at most two five-person permitted acquisition tests after recovery. It makes no conversion forecast without a known job/audience. Those ten possible acquisition invitations cannot substantiate 1,000. Once observed data exists, compute the required qualified visits from the actual signup rate and show the remaining gap. If the true buyer differs from B2C, flag the conflict explicitly to the coordinator while preserving the current stated target; do not silently rewrite it or infer a market from the name.
