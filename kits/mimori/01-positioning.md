@@ -1,6 +1,6 @@
 # Mimori — Positioning
 
-**Live:** https://www.mimori.dev/ (apex redirects here) · **Profile:** https://shipped.money/p/mimori · Checked 29 October 2026.
+**Live:** https://www.mimori.dev/ (apex redirects here) · **Category:** Productivity · **Profile:** https://shipped.money/p/mimori · Checked 29 October 2026.
 
 Your first user is a design student who notices a texture on a walk, saves it and later forgets why. Start with one observation, the user's own words and finding that reference for a project. Don't pitch an AI moodboard engine: the live Essentials beta doesn't understand images through AI.
 
