@@ -1,5 +1,7 @@
 # Lawyer OS — Positioning
 
+**Live:** https://lawyeros.online/ · **Category:** SaaS · **Profile:** https://shipped.money/p/lawyeros
+
 Checked 29 October 2026 against [lawyeros.online](https://lawyeros.online/). Actual headline: **“Your cases, hearings and documents in one place.”** CTAs: **“Start free”** to `/sign-up` and **“See demo”** to `/demo`. The demo explicitly uses sample data and saves nothing. Account creation, case storage, files, permissions and billing were not tested.
 
 ## Your first business
