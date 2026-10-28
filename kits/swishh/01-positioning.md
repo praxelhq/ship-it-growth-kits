@@ -1,7 +1,6 @@
 # Swish — Positioning
 
-**Category:** Productivity
-**Live:** https://swishhit.com/ · **Roster/profile:** swishh, https://shipped.money/p/swishh · Checked 29 October 2026.
+**Category:** Productivity · **Live:** https://swishhit.com/ · **Roster/profile:** swishh, https://shipped.money/p/swishh · Checked 29 October 2026.
 
 Your first user is an adult Mac writer who moves between Hindi and English and wants one short message corrected without copying it to a chatbot. Lead with a fix they can review and undo. Don't promise that an AI rewrite preserves meaning automatically or treat permission access as a trivial checkbox.
 
