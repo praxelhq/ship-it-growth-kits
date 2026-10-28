@@ -1,5 +1,7 @@
 # Catalog Maker / Apna Catalog — Positioning
 
+**Live:** https://apnacatalog.com/ · **Category:** SaaS · **Profile:** https://shipped.money/p/catalog-maker
+
 Checked 29 October 2026: [apnacatalog.com](https://apnacatalog.com/) opens **“Welcome to Apna Catalog”** and says **“Take a photo, add a name and price.”** The actual seller CTA is **“I sell — make my catalog”**, leading to `/login?next=%2Fseller`; **“I buy — browse catalogs”** is separate, and **“Add another business”** uses `new=1`. A real-browser read also showed **“Try as demo seller →”**, not exercised here. Seller login, photography, order sheets, phone alerts and checkout were not exercised.
 
 ## Your first business
