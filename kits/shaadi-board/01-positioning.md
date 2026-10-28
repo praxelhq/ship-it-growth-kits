@@ -1,7 +1,6 @@
 # Shaadi Board — Positioning
 
-**Category:** Productivity
-**Roster route:** https://ops.shaadiboard.in/ · **Public router:** https://shaadiboard.in/ · **Profile:** https://shipped.money/p/shaadi-board · Checked 29 October 2026.
+**Category:** Productivity · **Roster route:** https://ops.shaadiboard.in/ · **Public router:** https://shaadiboard.in/ · **Profile:** https://shipped.money/p/shaadi-board · Checked 29 October 2026.
 
 Your first user is an adult family helper coordinating a wedding's day-of tasks and handovers. Focus on who owns the next job, when it happens and what the other side needs to know. This is the consumer family/helper use case, not a planner agency buying an enterprise operations system.
 
