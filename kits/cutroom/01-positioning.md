@@ -1,5 +1,7 @@
 # Cutroom — Positioning
 
+**Live:** https://cutroom.space/ · **Category:** SaaS · **Profile:** https://shipped.money/p/cutroom
+
 Checked 29 October 2026 against [cutroom.space](https://cutroom.space/), including the rendered workspace and Plans & exports view. Actual headline: **“less admin. more action.”** Actual buttons: **“New project”** and **“Your projects”**. A separate **“Log in / sign up”** link points to `/login`. The public workspace starts with zero projects/editors and describes a private browser workspace. These are entry-state observations, not proof that accounts, invitations, cross-device collaboration, uploads or exports work.
 
 ## The first business
