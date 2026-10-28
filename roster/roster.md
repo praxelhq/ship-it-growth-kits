@@ -4,7 +4,7 @@
 
 ## Read this before using the roster
 
-- The brief said 176 projects. The directory actually lists **313**.
+- The brief said 176 projects. The directory actually lists **313** rows — but **six pairs of rows are the same project submitted twice** (same live URL), so there are **307 distinct projects** and 307 kits to write. The `duplicate_of` column names the row we treat as canonical; duplicates don't get their own kit. The pairs: `caseflex`/`caseflex-2`, `closet-stylist`/`closet-stylist-2`, `karma-atlas`/`karma-atlas-2`, `myworkfolio`/`myworkfolio-2`, `scanline`/`scanline-2`, `sponsor-os`/`sponsor-os-2`.
 - **287 are live.** 26 are not: see [`dead-links.md`](dead-links.md). A kit is worthless for a project whose domain does not resolve, so fix those first.
 - shipped.money exposes **no student / owner link** on a project page. The `shipped_profile` column is the project's page on shipped.money, which is the only person-adjacent link that exists publicly. Join the cohort list against `slug` to add real names.
 - Only 58 projects have a tagline on shipped.money and only 69 have a category. Everything else is backfilled: taglines from the project's own site metadata, categories inferred into shipped.money's own vocabulary. Both are labelled per row in `category_source` / `tagline_source` in the CSV so nothing is passed off as first-party data.

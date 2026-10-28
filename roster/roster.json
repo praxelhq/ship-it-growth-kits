@@ -11,7 +11,8 @@
     "shipped_profile": "https://shipped.money/p/12th-man",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Abhyava",
@@ -25,7 +26,8 @@
     "shipped_profile": "https://shipped.money/p/abhyava",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Adda",
@@ -39,7 +41,8 @@
     "shipped_profile": "https://shipped.money/p/adda",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Adya Capital",
@@ -53,7 +56,8 @@
     "shipped_profile": "https://shipped.money/p/adya-capital",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Afterthoughts",
@@ -67,7 +71,8 @@
     "shipped_profile": "https://shipped.money/p/afterthoughts",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "AI Hunt",
@@ -81,7 +86,8 @@
     "shipped_profile": "https://shipped.money/p/ai-hunt",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Anant",
@@ -95,7 +101,8 @@
     "shipped_profile": "https://shipped.money/p/anant",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Ankiro",
@@ -109,7 +116,8 @@
     "shipped_profile": "https://shipped.money/p/ankiro",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Anonymous project",
@@ -123,7 +131,8 @@
     "shipped_profile": "https://shipped.money/p/aiornot",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Anonymous project",
@@ -137,7 +146,8 @@
     "shipped_profile": "https://shipped.money/p/brain-train-101",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Anonymous project",
@@ -151,7 +161,8 @@
     "shipped_profile": "https://shipped.money/p/badlingos",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Artificial Influence",
@@ -165,7 +176,8 @@
     "shipped_profile": "https://shipped.money/p/artificial-influence",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "AsanaLab",
@@ -179,7 +191,8 @@
     "shipped_profile": "https://shipped.money/p/asanalab",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "askpragzy",
@@ -193,7 +206,8 @@
     "shipped_profile": "https://shipped.money/p/askpragzy",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "AsliRate",
@@ -207,7 +221,8 @@
     "shipped_profile": "https://shipped.money/p/aslirate",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Astitva",
@@ -221,7 +236,8 @@
     "shipped_profile": "https://shipped.money/p/astitva",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Atlaspong",
@@ -235,7 +251,8 @@
     "shipped_profile": "https://shipped.money/p/atlaspong",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Audit extractor",
@@ -249,7 +266,8 @@
     "shipped_profile": "https://shipped.money/p/audit-extractor",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Bad Alibi",
@@ -263,7 +281,8 @@
     "shipped_profile": "https://shipped.money/p/bad-alibi",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Bae Talk",
@@ -277,7 +296,8 @@
     "shipped_profile": "https://shipped.money/p/bae-talk",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Ballpark",
@@ -291,7 +311,8 @@
     "shipped_profile": "https://shipped.money/p/ballpark",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Before",
@@ -305,7 +326,8 @@
     "shipped_profile": "https://shipped.money/p/before",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "biaah",
@@ -319,7 +341,8 @@
     "shipped_profile": "https://shipped.money/p/biaah",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Bloomie Mental Health",
@@ -333,7 +356,8 @@
     "shipped_profile": "https://shipped.money/p/bloomie-mental-health",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Bond",
@@ -347,7 +371,8 @@
     "shipped_profile": "https://shipped.money/p/bond",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "booked",
@@ -361,7 +386,8 @@
     "shipped_profile": "https://shipped.money/p/booked",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Boomerang",
@@ -375,7 +401,8 @@
     "shipped_profile": "https://shipped.money/p/boomerang",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "BrainTrain",
@@ -389,7 +416,8 @@
     "shipped_profile": "https://shipped.money/p/braintrain",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Brandaid",
@@ -403,7 +431,8 @@
     "shipped_profile": "https://shipped.money/p/brandaid",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "BrandEchoAI",
@@ -417,7 +446,8 @@
     "shipped_profile": "https://shipped.money/p/brandechoai",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "BuskAlong",
@@ -431,7 +461,8 @@
     "shipped_profile": "https://shipped.money/p/buskalong",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CA Deskk",
@@ -445,7 +476,8 @@
     "shipped_profile": "https://shipped.money/p/ca-deskk",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "cafextroverts.me",
@@ -459,7 +491,8 @@
     "shipped_profile": "https://shipped.money/p/cafextroverts-me",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "careVoyage",
@@ -473,7 +506,8 @@
     "shipped_profile": "https://shipped.money/p/carevoyage",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CartPing",
@@ -487,7 +521,8 @@
     "shipped_profile": "https://shipped.money/p/cartping",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Case Forge",
@@ -501,7 +536,8 @@
     "shipped_profile": "https://shipped.money/p/case-forge",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Case Room",
@@ -515,7 +551,8 @@
     "shipped_profile": "https://shipped.money/p/case-room",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CaseCrack",
@@ -529,7 +566,8 @@
     "shipped_profile": "https://shipped.money/p/casecrack",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CaseFlex",
@@ -543,7 +581,8 @@
     "shipped_profile": "https://shipped.money/p/caseflex-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "caseflex"
   },
   {
     "name": "CaseFlex",
@@ -557,7 +596,8 @@
     "shipped_profile": "https://shipped.money/p/caseflex",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CaseForge",
@@ -571,7 +611,8 @@
     "shipped_profile": "https://shipped.money/p/caseforge",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "cassify",
@@ -585,7 +626,8 @@
     "shipped_profile": "https://shipped.money/p/cassify",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Catalog Maker",
@@ -599,7 +641,8 @@
     "shipped_profile": "https://shipped.money/p/catalog-maker",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Chaos Theory",
@@ -613,7 +656,8 @@
     "shipped_profile": "https://shipped.money/p/chaos-theory",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Chaptr",
@@ -627,7 +671,8 @@
     "shipped_profile": "https://shipped.money/p/chaptr",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Chaturanga",
@@ -641,7 +686,8 @@
     "shipped_profile": "https://shipped.money/p/chaturanga",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ChoreoStudio",
@@ -655,7 +701,8 @@
     "shipped_profile": "https://shipped.money/p/choreostudio",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Clockwise",
@@ -669,7 +716,8 @@
     "shipped_profile": "https://shipped.money/p/clockwise",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "closet stylist",
@@ -683,7 +731,8 @@
     "shipped_profile": "https://shipped.money/p/closet-stylist-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "closet-stylist"
   },
   {
     "name": "Closet Stylist",
@@ -697,7 +746,8 @@
     "shipped_profile": "https://shipped.money/p/closet-stylist",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Comicworld",
@@ -711,7 +761,8 @@
     "shipped_profile": "https://shipped.money/p/comicworld",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Commit",
@@ -725,7 +776,8 @@
     "shipped_profile": "https://shipped.money/p/commit",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Compass",
@@ -739,7 +791,8 @@
     "shipped_profile": "https://shipped.money/p/compass",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Consilium",
@@ -753,7 +806,8 @@
     "shipped_profile": "https://shipped.money/p/consilium",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ContingencyPlan",
@@ -767,7 +821,8 @@
     "shipped_profile": "https://shipped.money/p/contingencyplan",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Couples Connect",
@@ -781,7 +836,8 @@
     "shipped_profile": "https://shipped.money/p/couples-connect",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Create or Die",
@@ -795,7 +851,8 @@
     "shipped_profile": "https://shipped.money/p/create-or-die",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Creative Studio",
@@ -809,7 +866,8 @@
     "shipped_profile": "https://shipped.money/p/creative-studio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CreatorDeal",
@@ -823,7 +881,8 @@
     "shipped_profile": "https://shipped.money/p/creatordeal",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "CreatorForge",
@@ -837,7 +896,8 @@
     "shipped_profile": "https://shipped.money/p/creatorforge",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Crewup",
@@ -851,7 +911,8 @@
     "shipped_profile": "https://shipped.money/p/crewup",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Cultcool",
@@ -865,7 +926,8 @@
     "shipped_profile": "https://shipped.money/p/cultcool",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Cutroom",
@@ -879,7 +941,8 @@
     "shipped_profile": "https://shipped.money/p/cutroom",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "DancePass",
@@ -893,7 +956,8 @@
     "shipped_profile": "https://shipped.money/p/dancepass",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Dastaan",
@@ -907,7 +971,8 @@
     "shipped_profile": "https://shipped.money/p/dastaan",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Daytrac",
@@ -921,7 +986,8 @@
     "shipped_profile": "https://shipped.money/p/daytrac",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Decision Log",
@@ -935,7 +1001,8 @@
     "shipped_profile": "https://shipped.money/p/decision-log",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "DeClutterMac",
@@ -949,7 +1016,8 @@
     "shipped_profile": "https://shipped.money/p/decluttermac",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "DefectDoc AI",
@@ -963,7 +1031,8 @@
     "shipped_profile": "https://shipped.money/p/defectdoc-ai",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Depthlab",
@@ -977,7 +1046,8 @@
     "shipped_profile": "https://shipped.money/p/depthlab",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "DeskPet",
@@ -991,7 +1061,8 @@
     "shipped_profile": "https://shipped.money/p/deskpet",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Devils Advocate",
@@ -1005,7 +1076,8 @@
     "shipped_profile": "https://shipped.money/p/devils-advocate",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "DilliScenes",
@@ -1019,7 +1091,8 @@
     "shipped_profile": "https://shipped.money/p/dilliscenes",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Dine Sight",
@@ -1033,7 +1106,8 @@
     "shipped_profile": "https://shipped.money/p/dine-sight",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Draftly",
@@ -1047,7 +1121,8 @@
     "shipped_profile": "https://shipped.money/p/draftly",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "dumdum",
@@ -1061,7 +1136,8 @@
     "shipped_profile": "https://shipped.money/p/dumdum",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Dupedesk",
@@ -1075,7 +1151,8 @@
     "shipped_profile": "https://shipped.money/p/dupedesk",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Duvidha",
@@ -1089,7 +1166,8 @@
     "shipped_profile": "https://shipped.money/p/duvidha",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "EATME",
@@ -1103,7 +1181,8 @@
     "shipped_profile": "https://shipped.money/p/eatme",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Engage",
@@ -1117,7 +1196,8 @@
     "shipped_profile": "https://shipped.money/p/engage",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Ever Minutes",
@@ -1131,7 +1211,8 @@
     "shipped_profile": "https://shipped.money/p/ever-minutes",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "expiry radar",
@@ -1145,7 +1226,8 @@
     "shipped_profile": "https://shipped.money/p/expiry-radar",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Export Ready",
@@ -1159,7 +1241,8 @@
     "shipped_profile": "https://shipped.money/p/export-ready-2",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "F1 Simulation Strategy",
@@ -1173,7 +1256,8 @@
     "shipped_profile": "https://shipped.money/p/f1-simulation-strategy",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FaceMesh",
@@ -1187,7 +1271,8 @@
     "shipped_profile": "https://shipped.money/p/facemesh",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Family Sub savee",
@@ -1201,7 +1286,8 @@
     "shipped_profile": "https://shipped.money/p/family-sub-savee",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Fan Notch",
@@ -1215,7 +1301,8 @@
     "shipped_profile": "https://shipped.money/p/fan-notch",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Fan Wars India",
@@ -1229,7 +1316,8 @@
     "shipped_profile": "https://shipped.money/p/fan-wars-india",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "farm os",
@@ -1243,7 +1331,8 @@
     "shipped_profile": "https://shipped.money/p/farm-os",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Farm profit",
@@ -1257,7 +1346,8 @@
     "shipped_profile": "https://shipped.money/p/farm-profit",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FeedbackOS",
@@ -1271,7 +1361,8 @@
     "shipped_profile": "https://shipped.money/p/feedbackos",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FeeSathi",
@@ -1285,7 +1376,8 @@
     "shipped_profile": "https://shipped.money/p/feesathi-2",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FiguredIt",
@@ -1299,7 +1391,8 @@
     "shipped_profile": "https://shipped.money/p/figuredit",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "findtune",
@@ -1313,7 +1406,8 @@
     "shipped_profile": "https://shipped.money/p/findtune",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Fintellix",
@@ -1327,7 +1421,8 @@
     "shipped_profile": "https://shipped.money/p/fintellix",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FirmQuote",
@@ -1341,7 +1436,8 @@
     "shipped_profile": "https://shipped.money/p/firmquote",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "First Take",
@@ -1355,7 +1451,8 @@
     "shipped_profile": "https://shipped.money/p/first-take",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "First.door",
@@ -1369,7 +1466,8 @@
     "shipped_profile": "https://shipped.money/p/first-door",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FirstPage",
@@ -1383,7 +1481,8 @@
     "shipped_profile": "https://shipped.money/p/firstpage",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "fitfortrip",
@@ -1397,7 +1496,8 @@
     "shipped_profile": "https://shipped.money/p/fitfortrip",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Footholds",
@@ -1411,7 +1511,8 @@
     "shipped_profile": "https://shipped.money/p/footholds",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Footnotes",
@@ -1425,7 +1526,8 @@
     "shipped_profile": "https://shipped.money/p/footnotes",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "fortune-cookie",
@@ -1439,7 +1541,8 @@
     "shipped_profile": "https://shipped.money/p/fortune-cookie",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Founder's Seat",
@@ -1453,7 +1556,8 @@
     "shipped_profile": "https://shipped.money/p/founders-seat",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FOUNDERSEYE",
@@ -1467,7 +1571,8 @@
     "shipped_profile": "https://shipped.money/p/founderseye",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "FuelBar",
@@ -1481,7 +1586,8 @@
     "shipped_profile": "https://shipped.money/p/fuelbar",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "fundorfry",
@@ -1495,7 +1601,8 @@
     "shipped_profile": "https://shipped.money/p/fundorfry",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Get Plont",
@@ -1509,7 +1616,8 @@
     "shipped_profile": "https://shipped.money/p/get-plont",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Gift Finder",
@@ -1523,7 +1631,8 @@
     "shipped_profile": "https://shipped.money/p/gift-finder",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Gita For Me",
@@ -1537,7 +1646,8 @@
     "shipped_profile": "https://shipped.money/p/gita-for-me",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "GOAT Cards by Streak",
@@ -1551,7 +1661,8 @@
     "shipped_profile": "https://shipped.money/p/goat-cards-by-streak",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "GoWonder",
@@ -1565,7 +1676,8 @@
     "shipped_profile": "https://shipped.money/p/gowonder",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "GroupChatBrief",
@@ -1579,7 +1691,8 @@
     "shipped_profile": "https://shipped.money/p/groupchatbrief",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "HabitForge Tracker",
@@ -1593,7 +1706,8 @@
     "shipped_profile": "https://shipped.money/p/habitforge-tracker",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "HAUS HOME",
@@ -1607,7 +1721,8 @@
     "shipped_profile": "https://shipped.money/p/haus-home",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Heir of Wisdom",
@@ -1621,7 +1736,8 @@
     "shipped_profile": "https://shipped.money/p/heir-of-wisdom",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Infolio",
@@ -1635,7 +1751,8 @@
     "shipped_profile": "https://shipped.money/p/infolio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Jagah",
@@ -1649,7 +1766,8 @@
     "shipped_profile": "https://shipped.money/p/jagah",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Jelly Munch",
@@ -1663,7 +1781,8 @@
     "shipped_profile": "https://shipped.money/p/jelly-munch",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "joblossbyai",
@@ -1677,7 +1796,8 @@
     "shipped_profile": "https://shipped.money/p/joblossbyai",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Journal along",
@@ -1691,7 +1811,8 @@
     "shipped_profile": "https://shipped.money/p/journal-along",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Journaleaf",
@@ -1705,7 +1826,8 @@
     "shipped_profile": "https://shipped.money/p/journaleaf",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Judge My Chat",
@@ -1719,7 +1841,8 @@
     "shipped_profile": "https://shipped.money/p/judge-my-chat",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "JustWriteIt",
@@ -1733,7 +1856,8 @@
     "shipped_profile": "https://shipped.money/p/justwriteit",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kahi Chalo",
@@ -1747,7 +1871,8 @@
     "shipped_profile": "https://shipped.money/p/kahi-chalo",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kaira",
@@ -1761,7 +1886,8 @@
     "shipped_profile": "https://shipped.money/p/kaira",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "KaleshJudge",
@@ -1775,7 +1901,8 @@
     "shipped_profile": "https://shipped.money/p/kaleshjudge",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Karma Atlas",
@@ -1789,7 +1916,8 @@
     "shipped_profile": "https://shipped.money/p/karma-atlas",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "karma_atlas",
@@ -1803,7 +1931,8 @@
     "shipped_profile": "https://shipped.money/p/karma-atlas-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "karma-atlas"
   },
   {
     "name": "Keplar",
@@ -1817,7 +1946,8 @@
     "shipped_profile": "https://shipped.money/p/keplar",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "kept",
@@ -1831,7 +1961,8 @@
     "shipped_profile": "https://shipped.money/p/kept",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kindred",
@@ -1845,7 +1976,8 @@
     "shipped_profile": "https://shipped.money/p/kindred",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Kinemi",
@@ -1859,7 +1991,8 @@
     "shipped_profile": "https://shipped.money/p/kinemi",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kinly",
@@ -1873,7 +2006,8 @@
     "shipped_profile": "https://shipped.money/p/kinly",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "kitchen commune",
@@ -1887,7 +2021,8 @@
     "shipped_profile": "https://shipped.money/p/kitchen-commune",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Knock Knock",
@@ -1901,7 +2036,8 @@
     "shipped_profile": "https://shipped.money/p/knock-knock",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kreator",
@@ -1915,7 +2051,8 @@
     "shipped_profile": "https://shipped.money/p/kreator",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "kriya",
@@ -1929,7 +2066,8 @@
     "shipped_profile": "https://shipped.money/p/kriya",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kuchu Puchu",
@@ -1943,7 +2081,8 @@
     "shipped_profile": "https://shipped.money/p/kuchu-puchu",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Kwenzo",
@@ -1957,7 +2096,8 @@
     "shipped_profile": "https://shipped.money/p/kwenzo-2",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Labby",
@@ -1971,7 +2111,8 @@
     "shipped_profile": "https://shipped.money/p/labby",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "labelkanikabhutani",
@@ -1985,7 +2126,8 @@
     "shipped_profile": "https://shipped.money/p/labelkanikabhutani",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "LateBrake",
@@ -1999,7 +2141,8 @@
     "shipped_profile": "https://shipped.money/p/latebrake",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "LaunchPad",
@@ -2013,7 +2156,8 @@
     "shipped_profile": "https://shipped.money/p/launchpad",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "LawyerOS",
@@ -2027,7 +2171,8 @@
     "shipped_profile": "https://shipped.money/p/lawyeros",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Ledgerly",
@@ -2041,7 +2186,8 @@
     "shipped_profile": "https://shipped.money/p/ledgerly",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Leetcase",
@@ -2055,7 +2201,8 @@
     "shipped_profile": "https://shipped.money/p/leetcase",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Linkup",
@@ -2069,7 +2216,8 @@
     "shipped_profile": "https://shipped.money/p/linkup",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Listings For Me",
@@ -2083,7 +2231,8 @@
     "shipped_profile": "https://shipped.money/p/listings-for-me",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Little Moments",
@@ -2097,7 +2246,8 @@
     "shipped_profile": "https://shipped.money/p/little-moments",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Little Tales",
@@ -2111,7 +2261,8 @@
     "shipped_profile": "https://shipped.money/p/little-tales",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "LoopLead",
@@ -2125,7 +2276,8 @@
     "shipped_profile": "https://shipped.money/p/looplead",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Lowercase",
@@ -2139,7 +2291,8 @@
     "shipped_profile": "https://shipped.money/p/lowercase",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Luna",
@@ -2153,7 +2306,8 @@
     "shipped_profile": "https://shipped.money/p/luna",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Lunara",
@@ -2167,7 +2321,8 @@
     "shipped_profile": "https://shipped.money/p/lunara",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Lynkr",
@@ -2181,7 +2336,8 @@
     "shipped_profile": "https://shipped.money/p/lynkr",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Magnetos",
@@ -2195,7 +2351,8 @@
     "shipped_profile": "https://shipped.money/p/magnetos",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Maison VÃ©ritÃ©",
@@ -2209,7 +2366,8 @@
     "shipped_profile": "https://shipped.money/p/maison-verite",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Make Belief",
@@ -2223,7 +2381,8 @@
     "shipped_profile": "https://shipped.money/p/make-belief",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Make Me Cool",
@@ -2237,7 +2396,8 @@
     "shipped_profile": "https://shipped.money/p/make-me-cool",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "makehabit",
@@ -2251,7 +2411,8 @@
     "shipped_profile": "https://shipped.money/p/makehabit",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "MedDraft",
@@ -2265,7 +2426,8 @@
     "shipped_profile": "https://shipped.money/p/meddraft",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Media Chronicle",
@@ -2279,7 +2441,8 @@
     "shipped_profile": "https://shipped.money/p/media-chronicle",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "MedVault",
@@ -2293,7 +2456,8 @@
     "shipped_profile": "https://shipped.money/p/medvault",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Meet2Tracker",
@@ -2307,7 +2471,8 @@
     "shipped_profile": "https://shipped.money/p/meet2tracker",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Mezzala",
@@ -2321,7 +2486,8 @@
     "shipped_profile": "https://shipped.money/p/mezzala",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Milostudio",
@@ -2335,7 +2501,8 @@
     "shipped_profile": "https://shipped.money/p/milostudio",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Mimir",
@@ -2349,7 +2516,8 @@
     "shipped_profile": "https://shipped.money/p/mimir",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "MIMORI",
@@ -2363,7 +2531,8 @@
     "shipped_profile": "https://shipped.money/p/mimori",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Minutes",
@@ -2377,7 +2546,8 @@
     "shipped_profile": "https://shipped.money/p/minutes",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "morrow",
@@ -2391,7 +2561,8 @@
     "shipped_profile": "https://shipped.money/p/morrow",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Muggy",
@@ -2405,7 +2576,8 @@
     "shipped_profile": "https://shipped.money/p/muggy",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Munchy Mates",
@@ -2419,7 +2591,8 @@
     "shipped_profile": "https://shipped.money/p/munchy-mates",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "MyWorkFolio",
@@ -2433,7 +2606,8 @@
     "shipped_profile": "https://shipped.money/p/myworkfolio-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "myworkfolio"
   },
   {
     "name": "MyWorkFolio",
@@ -2447,7 +2621,8 @@
     "shipped_profile": "https://shipped.money/p/myworkfolio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Narra",
@@ -2461,7 +2636,8 @@
     "shipped_profile": "https://shipped.money/p/narra",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "NetFix Lab",
@@ -2475,7 +2651,8 @@
     "shipped_profile": "https://shipped.money/p/netfix-lab",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "neverloseawebsite",
@@ -2489,7 +2666,8 @@
     "shipped_profile": "https://shipped.money/p/neverloseawebsite-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Nimantran",
@@ -2503,7 +2681,8 @@
     "shipped_profile": "https://shipped.money/p/nimantran",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Nocapverify",
@@ -2517,7 +2696,8 @@
     "shipped_profile": "https://shipped.money/p/nocapverify",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Nook",
@@ -2531,7 +2711,8 @@
     "shipped_profile": "https://shipped.money/p/nook",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Noteorious",
@@ -2545,7 +2726,8 @@
     "shipped_profile": "https://shipped.money/p/noteorious",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "NudgeBooks",
@@ -2559,7 +2741,8 @@
     "shipped_profile": "https://shipped.money/p/nudgebooks",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "NutriSathi",
@@ -2573,7 +2756,8 @@
     "shipped_profile": "https://shipped.money/p/nutrisathi",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "NXT",
@@ -2587,7 +2771,8 @@
     "shipped_profile": "https://shipped.money/p/nxt",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "NxtMood",
@@ -2601,7 +2786,8 @@
     "shipped_profile": "https://shipped.money/p/nxtmood",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Obliged",
@@ -2615,7 +2801,8 @@
     "shipped_profile": "https://shipped.money/p/obliged",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Offer Decoder",
@@ -2629,7 +2816,8 @@
     "shipped_profile": "https://shipped.money/p/offer-decoder",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Omegalul",
@@ -2643,7 +2831,8 @@
     "shipped_profile": "https://shipped.money/p/omegalul",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "OnePager",
@@ -2657,7 +2846,8 @@
     "shipped_profile": "https://shipped.money/p/onepager",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "OneThread",
@@ -2671,7 +2861,8 @@
     "shipped_profile": "https://shipped.money/p/onethread",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ORBIT",
@@ -2685,7 +2876,8 @@
     "shipped_profile": "https://shipped.money/p/orbit-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Orbit",
@@ -2699,7 +2891,8 @@
     "shipped_profile": "https://shipped.money/p/orbit",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Outreach Scheduler",
@@ -2713,7 +2906,8 @@
     "shipped_profile": "https://shipped.money/p/outreach-scheduler",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Paper Toss",
@@ -2727,7 +2921,8 @@
     "shipped_profile": "https://shipped.money/p/paper-toss",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Parchi",
@@ -2741,7 +2936,8 @@
     "shipped_profile": "https://shipped.money/p/parchi",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PasteMotion",
@@ -2755,7 +2951,8 @@
     "shipped_profile": "https://shipped.money/p/pastemotion",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Patterlane",
@@ -2769,7 +2966,8 @@
     "shipped_profile": "https://shipped.money/p/patterlane",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Pawfoliopets",
@@ -2783,7 +2981,8 @@
     "shipped_profile": "https://shipped.money/p/pawfoliopets",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PayLoop",
@@ -2797,7 +2996,8 @@
     "shipped_profile": "https://shipped.money/p/payloop",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PBC Tracker",
@@ -2811,7 +3011,8 @@
     "shipped_profile": "https://shipped.money/p/pbc-tracker",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PeakX",
@@ -2825,7 +3026,8 @@
     "shipped_profile": "https://shipped.money/p/peakx",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Pehlu",
@@ -2839,7 +3041,8 @@
     "shipped_profile": "https://shipped.money/p/pehlu",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PerkEasy",
@@ -2853,7 +3056,8 @@
     "shipped_profile": "https://shipped.money/p/perkeasy",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "PickStack",
@@ -2867,7 +3071,8 @@
     "shipped_profile": "https://shipped.money/p/pickstack",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Picture Abhi Baaki Hai - Indian Cinema Recommender",
@@ -2881,7 +3086,8 @@
     "shipped_profile": "https://shipped.money/p/picture-abhi-baaki-hai-indian-cinema-recommender",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Pitch panel",
@@ -2895,7 +3101,8 @@
     "shipped_profile": "https://shipped.money/p/pitch-panel",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PlaceABrick",
@@ -2909,7 +3116,8 @@
     "shipped_profile": "https://shipped.money/p/placeabrick",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Plantpal",
@@ -2923,7 +3131,8 @@
     "shipped_profile": "https://shipped.money/p/plantpal",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Play XI",
@@ -2937,7 +3146,8 @@
     "shipped_profile": "https://shipped.money/p/play-xi",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "PlayLead",
@@ -2951,7 +3161,8 @@
     "shipped_profile": "https://shipped.money/p/playlead",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Pocket Social",
@@ -2965,7 +3176,8 @@
     "shipped_profile": "https://shipped.money/p/pocket-social",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Portal Flow",
@@ -2979,7 +3191,8 @@
     "shipped_profile": "https://shipped.money/p/portal-flow",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Post Flow",
@@ -2993,7 +3206,8 @@
     "shipped_profile": "https://shipped.money/p/post-flow",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Postifyy",
@@ -3007,7 +3221,8 @@
     "shipped_profile": "https://shipped.money/p/postifyy",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Postwire",
@@ -3021,7 +3236,8 @@
     "shipped_profile": "https://shipped.money/p/postwire",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "PrepPehle",
@@ -3035,7 +3251,8 @@
     "shipped_profile": "https://shipped.money/p/preppehle",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Proof-of-work Wall",
@@ -3049,7 +3266,8 @@
     "shipped_profile": "https://shipped.money/p/proof-of-work-wall",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Proofwall",
@@ -3063,7 +3281,8 @@
     "shipped_profile": "https://shipped.money/p/proofwall",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Proxy",
@@ -3077,7 +3296,8 @@
     "shipped_profile": "https://shipped.money/p/proxy",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "QLess",
@@ -3091,7 +3311,8 @@
     "shipped_profile": "https://shipped.money/p/qless",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "QuotePilot",
@@ -3105,7 +3326,8 @@
     "shipped_profile": "https://shipped.money/p/quotepilot",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ReconOS",
@@ -3119,7 +3341,8 @@
     "shipped_profile": "https://shipped.money/p/reconos",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Relay",
@@ -3133,7 +3356,8 @@
     "shipped_profile": "https://shipped.money/p/relay",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ReturnRescue",
@@ -3147,7 +3371,8 @@
     "shipped_profile": "https://shipped.money/p/returnrescue",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Roamio",
@@ -3161,7 +3386,8 @@
     "shipped_profile": "https://shipped.money/p/roamio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "RoastMaster",
@@ -3175,7 +3401,8 @@
     "shipped_profile": "https://shipped.money/p/roastmaster",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Rolevia",
@@ -3189,7 +3416,8 @@
     "shipped_profile": "https://shipped.money/p/rolevia",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Roomly",
@@ -3203,7 +3431,8 @@
     "shipped_profile": "https://shipped.money/p/roomly",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Rythmic Beats",
@@ -3217,7 +3446,8 @@
     "shipped_profile": "https://shipped.money/p/rythmic-beats",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SachLabel",
@@ -3231,7 +3461,8 @@
     "shipped_profile": "https://shipped.money/p/sachlabel",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Saloon Queue Management System",
@@ -3245,7 +3476,8 @@
     "shipped_profile": "https://shipped.money/p/saloon-queue-management-system",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SATHI",
@@ -3259,7 +3491,8 @@
     "shipped_profile": "https://shipped.money/p/sathi",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ScanLine",
@@ -3273,7 +3506,8 @@
     "shipped_profile": "https://shipped.money/p/scanline-2",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "scanline"
   },
   {
     "name": "ScanLine",
@@ -3287,7 +3521,8 @@
     "shipped_profile": "https://shipped.money/p/scanline",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Scene Kya Hai?",
@@ -3301,7 +3536,8 @@
     "shipped_profile": "https://shipped.money/p/scene-kya-hai",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Scoreyard",
@@ -3315,7 +3551,8 @@
     "shipped_profile": "https://shipped.money/p/scoreyard",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Scroll Back",
@@ -3329,7 +3566,8 @@
     "shipped_profile": "https://shipped.money/p/scroll-back",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SecretAIry",
@@ -3343,7 +3581,8 @@
     "shipped_profile": "https://shipped.money/p/secretairy",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Shaadi Board",
@@ -3357,7 +3596,8 @@
     "shipped_profile": "https://shipped.money/p/shaadi-board",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Shayari NHE 01",
@@ -3371,7 +3611,8 @@
     "shipped_profile": "https://shipped.money/p/shayari-nhe-01",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "shelftest",
@@ -3385,7 +3626,8 @@
     "shipped_profile": "https://shipped.money/p/shelftest",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Sherpa",
@@ -3399,7 +3641,8 @@
     "shipped_profile": "https://shipped.money/p/sherpa",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Shipfolio",
@@ -3413,7 +3656,8 @@
     "shipped_profile": "https://shipped.money/p/shipfolio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "ShipIt Studio",
@@ -3427,7 +3671,8 @@
     "shipped_profile": "https://shipped.money/p/shipit-studio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "ShipSnag",
@@ -3441,7 +3686,8 @@
     "shipped_profile": "https://shipped.money/p/shipsnag",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Shortlist",
@@ -3455,7 +3701,8 @@
     "shipped_profile": "https://shipped.money/p/shortlist",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "shotgun",
@@ -3469,7 +3716,8 @@
     "shipped_profile": "https://shipped.money/p/shotgun",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Shotlist",
@@ -3483,7 +3731,8 @@
     "shipped_profile": "https://shipped.money/p/shotlist",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "shubhrashi",
@@ -3497,7 +3746,8 @@
     "shipped_profile": "https://shipped.money/p/shubhrashi",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Signal",
@@ -3511,7 +3761,8 @@
     "shipped_profile": "https://shipped.money/p/signal",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Signal-Post-AI",
@@ -3525,7 +3776,8 @@
     "shipped_profile": "https://shipped.money/p/signal-post-ai",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Skill Prep",
@@ -3539,7 +3791,8 @@
     "shipped_profile": "https://shipped.money/p/skill-prep",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SnipText",
@@ -3553,7 +3806,8 @@
     "shipped_profile": "https://shipped.money/p/sniptext",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SNITCH-SMOKE",
@@ -3567,7 +3821,8 @@
     "shipped_profile": "https://shipped.money/p/snitch-smoke",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SocialGrid",
@@ -3581,7 +3836,8 @@
     "shipped_profile": "https://shipped.money/p/socialgrid",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "sole match",
@@ -3595,7 +3851,8 @@
     "shipped_profile": "https://shipped.money/p/sole-match",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SOLO DELEVELING",
@@ -3609,7 +3866,8 @@
     "shipped_profile": "https://shipped.money/p/solo-deleveling",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Soulloop",
@@ -3623,7 +3881,8 @@
     "shipped_profile": "https://shipped.money/p/soulloop",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SoundBuddy",
@@ -3637,7 +3896,8 @@
     "shipped_profile": "https://shipped.money/p/soundbuddy",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Speak Coach",
@@ -3651,7 +3911,8 @@
     "shipped_profile": "https://shipped.money/p/speak-coach",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Spearn",
@@ -3665,7 +3926,8 @@
     "shipped_profile": "https://shipped.money/p/spearn",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Spikewatch",
@@ -3679,7 +3941,8 @@
     "shipped_profile": "https://shipped.money/p/spikewatch",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Sponsor OS",
@@ -3693,7 +3956,8 @@
     "shipped_profile": "https://shipped.money/p/sponsor-os-2",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": "sponsor-os"
   },
   {
     "name": "Sponsor OS",
@@ -3707,7 +3971,8 @@
     "shipped_profile": "https://shipped.money/p/sponsor-os",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SquawkWire",
@@ -3721,7 +3986,8 @@
     "shipped_profile": "https://shipped.money/p/squawkwire",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Statecraft Intelligence",
@@ -3735,7 +4001,8 @@
     "shipped_profile": "https://shipped.money/p/statecraft-intelligence",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Statscourt",
@@ -3749,7 +4016,8 @@
     "shipped_profile": "https://shipped.money/p/statscourt",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "StockIQ",
@@ -3763,7 +4031,8 @@
     "shipped_profile": "https://shipped.money/p/stockiq",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "StoreScope",
@@ -3777,7 +4046,8 @@
     "shipped_profile": "https://shipped.money/p/storescope",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "StratLab",
@@ -3791,7 +4061,8 @@
     "shipped_profile": "https://shipped.money/p/stratlab",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "StyleKaro",
@@ -3805,7 +4076,8 @@
     "shipped_profile": "https://shipped.money/p/stylekaro",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Sue Your Friend",
@@ -3819,7 +4091,8 @@
     "shipped_profile": "https://shipped.money/p/sue-your-friend",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Supercharged",
@@ -3833,7 +4106,8 @@
     "shipped_profile": "https://shipped.money/p/supercharged",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "swishh",
@@ -3847,7 +4121,8 @@
     "shipped_profile": "https://shipped.money/p/swishh",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "SwitchBoard",
@@ -3861,7 +4136,8 @@
     "shipped_profile": "https://shipped.money/p/switchboard",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "TableCrew",
@@ -3875,7 +4151,8 @@
     "shipped_profile": "https://shipped.money/p/tablecrew",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Tabzero",
@@ -3889,7 +4166,8 @@
     "shipped_profile": "https://shipped.money/p/tabzero",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "TaskBaddie",
@@ -3903,7 +4181,8 @@
     "shipped_profile": "https://shipped.money/p/taskbaddie",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Telos",
@@ -3917,7 +4196,8 @@
     "shipped_profile": "https://shipped.money/p/telos",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Ten Ring",
@@ -3931,7 +4211,8 @@
     "shipped_profile": "https://shipped.money/p/ten-ring",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Terms Apply",
@@ -3945,7 +4226,8 @@
     "shipped_profile": "https://shipped.money/p/terms-apply",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "The Docket Dispatch",
@@ -3959,7 +4241,8 @@
     "shipped_profile": "https://shipped.money/p/the-docket-dispatch",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "The First Story",
@@ -3973,7 +4256,8 @@
     "shipped_profile": "https://shipped.money/p/the-first-story",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "The Patterns",
@@ -3987,7 +4271,8 @@
     "shipped_profile": "https://shipped.money/p/the-patterns",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "The Steady post",
@@ -4001,7 +4286,8 @@
     "shipped_profile": "https://shipped.money/p/the-steady-post",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "The Woof Chapter",
@@ -4015,7 +4301,8 @@
     "shipped_profile": "https://shipped.money/p/the-woof-chapter",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Thela",
@@ -4029,7 +4316,8 @@
     "shipped_profile": "https://shipped.money/p/thela",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "thespacesync",
@@ -4043,7 +4331,8 @@
     "shipped_profile": "https://shipped.money/p/thespacesync",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Think More",
@@ -4057,7 +4346,8 @@
     "shipped_profile": "https://shipped.money/p/think-more",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Thread",
@@ -4071,7 +4361,8 @@
     "shipped_profile": "https://shipped.money/p/thread",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Threadly",
@@ -4085,7 +4376,8 @@
     "shipped_profile": "https://shipped.money/p/threadly",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "tidy row",
@@ -4099,7 +4391,8 @@
     "shipped_profile": "https://shipped.money/p/tidy-row",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Toolshed",
@@ -4113,7 +4406,8 @@
     "shipped_profile": "https://shipped.money/p/toolshed",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Train Bold",
@@ -4127,7 +4421,8 @@
     "shipped_profile": "https://shipped.money/p/train-bold",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Trendizz.studio",
@@ -4141,7 +4436,8 @@
     "shipped_profile": "https://shipped.money/p/trendizz-studio",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "TuckedIn",
@@ -4155,7 +4451,8 @@
     "shipped_profile": "https://shipped.money/p/tuckedin",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "TwoCents",
@@ -4169,7 +4466,8 @@
     "shipped_profile": "https://shipped.money/p/twocents",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Uhgfix",
@@ -4183,7 +4481,8 @@
     "shipped_profile": "https://shipped.money/p/uhgfix",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Unposted",
@@ -4197,7 +4496,8 @@
     "shipped_profile": "https://shipped.money/p/unposted",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Usurp",
@@ -4211,7 +4511,8 @@
     "shipped_profile": "https://shipped.money/p/usurp",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Vantage Daily",
@@ -4225,7 +4526,8 @@
     "shipped_profile": "https://shipped.money/p/vantage-daily",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Vault Break",
@@ -4239,7 +4541,8 @@
     "shipped_profile": "https://shipped.money/p/vault-break",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Verdicts",
@@ -4253,7 +4556,8 @@
     "shipped_profile": "https://shipped.money/p/verdicts",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "low"
+    "audience_confidence": "low",
+    "duplicate_of": ""
   },
   {
     "name": "Vernacular",
@@ -4267,7 +4571,8 @@
     "shipped_profile": "https://shipped.money/p/karmanyemadan-glitchs-org",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Vibe Check",
@@ -4281,7 +4586,8 @@
     "shipped_profile": "https://shipped.money/p/vibe-check",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "VocTrace",
@@ -4295,7 +4601,8 @@
     "shipped_profile": "https://shipped.money/p/voctrace",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "WakeFul",
@@ -4309,7 +4616,8 @@
     "shipped_profile": "https://shipped.money/p/wakeful",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "WashQ",
@@ -4323,7 +4631,8 @@
     "shipped_profile": "https://shipped.money/p/washq",
     "audience": "B2B",
     "target_30d": "10 customers",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "WhatNxt",
@@ -4337,7 +4646,8 @@
     "shipped_profile": "https://shipped.money/p/whatnxt",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "WhoDunnit",
@@ -4351,7 +4661,8 @@
     "shipped_profile": "https://shipped.money/p/whodunnit",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "Window Safar",
@@ -4365,7 +4676,8 @@
     "shipped_profile": "https://shipped.money/p/window-safar",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   },
   {
     "name": "XYZ",
@@ -4379,6 +4691,7 @@
     "shipped_profile": "https://shipped.money/p/xyz",
     "audience": "B2C",
     "target_30d": "1,000 signups",
-    "audience_confidence": "high"
+    "audience_confidence": "high",
+    "duplicate_of": ""
   }
 ]
