@@ -2,7 +2,7 @@
 
 ## 1. Rehearsal invitation
 
-> Do you keep stopping a song to scroll the chords? I built BuskAlong as a music stand for people who sing while playing guitar. I'd like five musicians to try one complete public-domain song at rehearsal on Thursday at 6pm. The page has ready-made charts; familiar commercial-song titles need a chart you're allowed to import. Please try it on your own phone and tell me where the following breaks. No need to publish anything.
+> Do you keep stopping a song to scroll the chords? I built BuskAlong as a music stand for people who sing while playing guitar. Would five musicians be willing to try one complete public-domain song at a rehearsal time we agree? The page has ready-made charts; familiar commercial-song titles need a chart you're allowed to import. Please try it on your own phone and tell me where the following breaks. No need to publish anything.
 
 Use the accepted actual date and room, and send only with organizer permission.
 
