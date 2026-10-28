@@ -1,5 +1,7 @@
 # Crimson Farm OS — Positioning
 
+**Live:** https://crimsonearthos.in/ · **Category:** SaaS · **Profile:** https://shipped.money/p/farm-os
+
 Checked 29 October 2026 against [crimsonearthos.in](https://crimsonearthos.in/) and the rendered [pricing page](https://crimsonearthos.in/pricing). Root redirects to `/auth?redirect=%2F`; the actual heading is **“Who is signing in?”** Buttons are **“I'm the Owner”** / **“I'm Staff”**, with Hindi labels. Owner copy promises all records, money, reports and team; staff copy lists voice notes, attendance, harvest, expenses and stock used. This is an authentication entry, not a dead website. No account, voice recording, farm record or payment was submitted.
 
 ## The first business
