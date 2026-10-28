@@ -1,0 +1,11 @@
+# Nimantran — Measurement
+
+**1,000 signups in 30 days** means unique genuine studio creation sessions for the no-login product, not every generated guest video. Report the narrower activation beside it: a person renders, downloads and confirms playback of one intended invitation. Record signed-in studio accounts separately; the optional account is not required for local creation. Guest/travel planner accounts need a real configured plan and their own activation report. Waitlist and guest viewers stay separate.
+
+Day 0: actual unique creators, successful exports, accounts, planner accounts, waitlist, current leaderboard and analytics are unknown. Record them from authorized aggregate data. A sample family and prefilled 86-guest plan are not traction. [Clarity](https://clarity.microsoft.com/) setup is unverified; exclude all wedding names, voice/audio, guest contact details and planner fields from recordings. No analytics payload may contain the guest list. Browser-local session measurement has deletion/multiple-device limitations; disclose those rather than claiming perfect unique people.
+
+Track source→studio start→script approval→recording success→render success→download→consented playback confirmation. A download click alone is not confirmed playback or WhatsApp delivery. Count export errors and permission-denied cases. Anonymous tests with fictional defaults can demonstrate usability but must not inflate genuine-use activation.
+
+`02` budgets 7–21 starts before deduplication, perhaps 3–12 working downloads. It does not explain a path to 1,000. At a hypothetical 25% qualified-visit→creation rate, 1,000 requires 4,000 qualified unique visits. Replace that assumption with observed data; do not convert 300 guests into 300 users. Optional launch traffic is zero until it occurs.
+
+W1: repair export/playback before reach. W2: if starts fail at recording, clarify permissions and local-media loss; if families expect WhatsApp automation, fix the hero. W3: ask whether approved scripts and exports save meaningful work without promising cloud capabilities. W4: expand the source producing real completed invitations, or report the volume shortfall. Count paid orders only when payment and delivery actually exist, never from listed packages or a discount waitlist.
