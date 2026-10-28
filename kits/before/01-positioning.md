@@ -1,5 +1,7 @@
 # Before — Positioning
 
+**Live:** https://trybefore.me/ · **Category:** SaaS · **Profile:** https://shipped.money/p/before
+
 Checked 29 October 2026 against [trybefore.me](https://trybefore.me/). The actual headline is **“Find out if people will actually buy it, before you make 5,000 of them.”** The visible CTAs include **“Start free”** and **“Start a test”**, linking to `/login?mode=signup`. These are observed destinations; account creation, test publication, payment and response collection were not exercised.
 
 The strongest sentence is in your FAQ: people say yes more often than they pay. Preserve it. Before collects design preferences, stated buying intent, a price ladder and objections. Its Build/Modify/Retest/Drop verdict is a research aid, not a purchase order or a probability that inventory will sell.
