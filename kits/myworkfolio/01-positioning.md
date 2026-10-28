@@ -1,6 +1,6 @@
 # MyWorkFolio — Positioning
 
-**Live:** https://myworkfolio.in/ · **Profile:** https://shipped.money/p/myworkfolio · Checked 29 October 2026. One kit covers duplicate roster entries; don't create a second acquisition campaign.
+**Live:** https://myworkfolio.in/ · **Category:** Productivity · **Profile:** https://shipped.money/p/myworkfolio · Checked 29 October 2026. One kit covers duplicate roster entries; don't create a second acquisition campaign.
 
 Your first user is an adult job switcher who already owns career documents but retrieves them from scattered places whenever HR asks. Start with a pack assembled from a few non-sensitive synthetic documents in a demonstration, then let users decide privately whether to store their real files. Don't begin by asking a student group for Aadhaar, PAN or payslips.
 
