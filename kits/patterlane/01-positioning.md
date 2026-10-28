@@ -1,6 +1,6 @@
 # Patterlane — Positioning
 
-**Live:** https://patterlane.in/ · **Profile:** https://shipped.money/p/patterlane · Checked 29 October 2026.
+**Live:** https://patterlane.in/ · **Category:** Productivity · **Profile:** https://shipped.money/p/patterlane · Checked 29 October 2026.
 
 Your first evaluator is an experienced individual Mac email user who wants calmer conversation reading and understands an early beta. Start with the no-credential sample. This isn't ready to be sold as a supported replacement for an organization's mailbox or a mass public install campaign.
 
