@@ -1,0 +1,16 @@
+# careVoyage — Distribution map
+
+**Lead with source correction and permission-based education, not cold messages to patients.** Your first channel is a small caregiver usability test around administrative organization. Broad acquisition waits until `04`'s verification-claim fix passes. All forecasts are planning assumptions, not healthcare/travel benchmarks.
+
+| # | Exact route | Action and boundary | Planning result / basis | `03` |
+| --- | --- | --- | --- | --- |
+| 1 | Existing adult caregiver relationships, through someone you already know | Ask five people to inspect a synthetic trip, never request diagnoses, passports, bank statements or private medical files. No harvesting patient groups. | Five invitations × 60% willing × 60% save/review a test checklist ≈ two activations; assumptions. | 1 |
+| 2 | An actual hospital international desk reached through its own official website | Ask for feedback on the administrative questions and source labels, not endorsement or a patient list. Use the desk connected to your narrow verified route; confirm its public contact yourself before sending. | Zero forecast until a desk agrees to distribute. One accepted ten-person session × 60% completion ≈ six activations, conditional. | 2 |
+| 3 | [LinkedIn](https://www.linkedin.com/) own feed | Six educational posts on organizing questions, source status and correcting bad information. No treatment recommendations or recruitment from vulnerable individuals' stories. Manual engagement under [policy](https://www.linkedin.com/help/linkedin/answer/a1341387). | 100–500 impressions and 0–5 visits/post; 0–30 visits, guessed. | 3, 4 |
+| 4 | [Peerlist Launchpad](https://peerlist.io/launchpad) | Ask for product/usability feedback only after the claim/source gate. Check current rules and slot; the fetched page showed a historical week. | 20–150 visits and 1–10 saved test trips as a guess; zero guaranteed. This is not evidence of medical-user demand. | 5 |
+| 5 | An introduced diaspora/community organizer or newsletter editor | Offer a free administrative-source literacy session. Get permission, use a synthetic trip and explain limits. No unsolicited WhatsApp additions or pressure to share health circumstances. | Zero until accepted. Count actual attendees and tagged visits, not group membership. | 6, 7 |
+| 6 | [Official visa portal](https://indianvisaonline.gov.in/) | A source for checking the applicable authority, not a place to advertise. Do not post your app as an agent or suggest priority processing. | No acquisition forecast. It supports trust only when summaries are correct and current. | 8 |
+
+No named patient forum's current promotional permission was verified. That channel is therefore absent, not a reason to invent permission. No paid directory, referral purchase or hospital ranking campaign is in budget.
+
+The practical first-month scenario is **5–20 carefully reviewed saved trips** from five warm tests, a conditional accepted session and a small owned-feed/directory response, with overlap removed. It does not establish a path to 1,000 accounts. An approved desk/organizer partnership could expand distribution; record it only when it actually exists. More visitors to unverified rules would make the product worse, not the month better.
