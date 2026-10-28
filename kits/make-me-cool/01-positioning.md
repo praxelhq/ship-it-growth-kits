@@ -1,6 +1,6 @@
 # Make Me Cool — Positioning
 
-**Live:** https://makemecool.me/ · **Profile:** https://shipped.money/p/make-me-cool
+**Live:** https://makemecool.me/ · **Category:** Content and media · **Profile:** https://shipped.money/p/make-me-cool
 
 **Your product should leave someone with a story they want to tell.** Actual headline checked 29 October: “knowing stuff is sexy.” Actual browser CTA: “play today's story.” Clicking opened a no-account reader with read/answer/tell stages and card progress; no quiz, account or purchase was completed. The rendered preview concerned a wave and a music cover; the extracted preview showed a different story, so don't hard-code today's subject into an evergreen invitation.
 
