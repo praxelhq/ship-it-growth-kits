@@ -1,7 +1,6 @@
 # SnipText — Positioning
 
-**Category:** Productivity
-**Live:** https://www.sniptext.xyz/ · **Profile:** https://shipped.money/p/sniptext · Checked 29 October 2026.
+**Category:** Productivity · **Live:** https://www.sniptext.xyz/ · **Profile:** https://shipped.money/p/sniptext · Checked 29 October 2026.
 
 Your first evaluator is an Apple Silicon Mac user who needs to copy an error message or short passage trapped in a screenshot. Start with one harmless image and an editable OCR result, not a claim of perfect extraction from every formula/table. Copy-only text reuse is a different job from Swish's in-place writing changes and KnockKnock's window hiding.
 
