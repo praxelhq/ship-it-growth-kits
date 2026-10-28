@@ -1,5 +1,7 @@
 # BrandAid — Positioning
 
+**Live:** https://brandaid.live/ · **Category:** SaaS · **Profile:** https://shipped.money/p/brandaid
+
 Checked 29 October 2026 against [brandaid.live](https://brandaid.live/). Actual headline: **“See what others miss.”** Main CTA: **“Try it now · no sign-up”**, with brand-name entry and a dashboard destination. The public site also links to `/signup` and plan-specific signup routes. Entering a real client brand, running an analysis, account creation, exports, collaboration and checkout were not tested.
 
 Your most important disclosure is **“All figures above are samples for a fictional brand.”** Preserve it. The skincare score, rising search percentages and three-step-kit recommendation are illustrations, not measured trends or customer results. A report without inspectable sources is a set of hypotheses, however polished its design.
