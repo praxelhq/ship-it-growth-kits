@@ -1,6 +1,6 @@
 # Media Chronicle — Positioning
 
-**Live:** https://media-chronicle.akshatdhaundiyal.com/ · **Profile:** https://shipped.money/p/media-chronicle · Checked 29 October 2026.
+**Live:** https://media-chronicle.akshatdhaundiyal.com/ · **Category:** Productivity · **Profile:** https://shipped.money/p/media-chronicle · Checked 29 October 2026.
 
 Your first user is the Windows family-photo keeper with several external drives and no memory of which one holds a trip. Start with finding a small set of known photos and identifying their source drive. Don't frame a photo catalogue as a replacement for keeping backup copies.
 
