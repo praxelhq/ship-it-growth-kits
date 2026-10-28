@@ -1,6 +1,6 @@
 # Kaira — Positioning
 
-**Live:** https://kairaprod.online/ · **Profile:** https://shipped.money/p/kaira · Checked 29 October 2026.
+**Live:** https://kairaprod.online/ · **Category:** Productivity · **Profile:** https://shipped.money/p/kaira · Checked 29 October 2026.
 
 Your first user is a student with three deadlines and no clear starting point. They don't need to configure an entire life-management system before doing a task. Help them enter three real tasks, inspect why one ranks first and finish that one. Habit logs and countdowns can wait until the first useful day.
 
