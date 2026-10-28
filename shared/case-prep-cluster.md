@@ -45,6 +45,18 @@ What that means for all eleven:
 
 Final placements for the senior batch run January to March. **That's the second peak, and it's the retention test** — a product that only works during one four-week window is a seasonal business. Each `07` asks for a February cohort number for this reason.
 
+### And one hard deadline, for one project
+
+**CAT 2026 is Sunday 29 November, with [2.84 lakh registered candidates](https://www.mbauniverse.com/cat/date-and-timings) and admit cards releasing 4 November.** That is 31 days from the start of this wave.
+
+This matters for exactly one project — **Skill Prep**, whose speed-math / DI / logical-reasoning drills *are* the CAT Quant and DILR sections. It gives that one kit:
+
+- **An audience two orders of magnitude larger than anyone else's in the cluster** (284,000 aspirants vs. a few thousand B-school students), reached through completely different channels — Telegram, r/CATpreparation, YouTube — so it competes with nobody here.
+- **A calendar pinned to a real date**, with 4 November as the single highest-attention day of the month.
+- **A cliff.** On 30 November that audience evaporates. Skill Prep's kit is the only one in this cluster that has to plan for its channel closing, which is why its `02` and `07` push an owned Telegram channel from day 1.
+
+Nobody else in the cluster should chase the CAT aspirant. She isn't buying case practice four weeks before her entrance exam.
+
 ---
 
 ## The channel map
