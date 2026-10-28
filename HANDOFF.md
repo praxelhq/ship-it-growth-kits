@@ -97,6 +97,8 @@ Two things the agent genuinely needs:
 - **Web access.** The standard forbids naming a community, a member count or a statistic that hasn't been verified, and requires opening the product's real live page before writing a word. Without network the kits degrade into exactly the template mill the standard exists to prevent.
 - **One lane at a time.** Run one agent per lane if you want parallelism — the lanes are disjoint and each writes only into `kits/<slug>/`, so four agents can work without colliding. Commit one kit per commit.
 
+Git in this folder is ready to commit and push with no setup: the remote is set, credentials go through the `gh` CLI (`credential.helper = !gh auth git-credential`, authenticated as `praxelhq`), and a repo-local identity is set to `praxelhq` because this machine has no global git identity. Change it with `git config --local user.name/user.email` if you'd rather the commits carry your own name.
+
 ## 6. Things that cost us time — inherit them, don't rediscover them
 
 - **A failed fetch is not a dead site.** An agent sandbox with no network route reports every site as down. A kit that tells a student their working site is dead destroys their trust in the other six documents instantly. Prove it twice — `curl -I` plus `roster/roster.json`'s `live_status` — before writing it. If you can't establish network access at all, stop; don't write kits blind.
