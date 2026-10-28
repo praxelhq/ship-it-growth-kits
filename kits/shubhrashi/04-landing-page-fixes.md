@@ -1,0 +1,12 @@
+# shubhrashi — Landing page fixes
+
+A real browser inspected the homepage, export view and contact-form navigation on 29 October 2026. No form was submitted and no commercial claim was independently certified.
+
+1. **Repair contact trust.** Current headline “Premium Indian Spices & Snacks” is followed by a contact number with a sequential 12345-67890 pattern. Verify and replace it with an owned, answered business line; remove it until verified. Keep one tested contact-form/email route. Replacement CTA: **“Request a written bulk quote”**. Explain what happens next and test actual delivery to the team.
+2. **Reconcile quantities.** Current homepage 30 kg, export overview 500 kg, and common product cards 1,000 kg conflict. Replace the general promise with **“Minimum quantity is shown per product and confirmed for the available lot.”** Then show one correct MOQ per SKU. Do not silently advertise the smallest number.
+3. **Substantiate proof.**15+ versus 10+ years conflict; certificates and customer counts have no evidence established by this inspection. Publish only verified dates/documents, with issuer, applicable legal entity, scope and validity. Until then use **“Ask for documents applicable to your quoted lot.”** Remove unsupported ratings/testimonials rather than labelling them “verified.”
+4. **Separate retail from trade.** Current retail cumin “From $4.99” sits near export supply. Add **“Retail pack price; choose pack size. Bulk lots are quoted separately.”** Show net weight/currency/tax/delivery before checkout. A consumer pack price is not an export rate.
+5. **Make the contact form a sourcing brief.** Current Request Bulk Quote requires navigating through export to a general contact form. Add visible required fields for product, quantity/unit, packaging, destination and required date, plus business contact. Keep a plain message alternative. Confirmation: **“Enquiry received. No order or supply commitment has been created.”**
+6. **Mobile/share check.** On a 360 px phone, reach the quote form in one clear action and preserve product context. The fetched metadata had no image; add a real product/spec preview, not an unverifiable quality seal. Test slow-data submission, errors and retry so one enquiry is not duplicated.
+
+No outreach until the contact route works and contradictory trade terms are fixed. Do not promise globally certified shipping while the applicable documents remain unverified.
