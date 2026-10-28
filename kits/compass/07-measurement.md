@@ -1,6 +1,6 @@
 # Compass — Measurement
 
-**Target: 1,000 consumer signups in 30 days.** Proposed signup definition: a new adult's completed, consented Compass application, if accepted by the course. Record any actual account mechanism separately. Updates-list joins, sample attempts, paid clients and completed packages remain separate counts. Do not count a parent and adult student twice for one service.
+**Target: 1,000 consumer signups in 30 days.** Signup definition: a new adult's completed, consented Compass application. Record any actual account mechanism separately. Updates-list joins, sample attempts, paid clients and completed packages remain separate counts. Do not count a parent and adult student twice for one service.
 
 **Activation:** first prepared decision completed with a reflection. Service delivery: contracted feedback, brief and any calls delivered according to the purchased package. Neither an application nor a payment proves that work happened. No guarantee of career clarity, employment or a chosen role follows from these numbers.
 
