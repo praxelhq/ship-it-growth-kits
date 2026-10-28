@@ -58,10 +58,24 @@ Research corrections must propagate: a transient NXT empty view later loaded 15 
 
 At completion create a student-friendly root index and final handoff, run a roster-wide coverage audit for 307 unique folders and 2,149 exact kit documents, verify all six duplicate aliases map to their first slug, check original-kit preservation and remote parity, report any provisional/source/target exceptions, and pause `finish-ship-it-growth-kits`. If the deadline arrives first, report the actual delivered/remaining count honestly and pause the heartbeat.
 
-## 21:55 UTC integration checkpoint
+## Integration checkpoint — 131 committed kits
 
 Remote committed inventory is **131 kits / 917 kit documents**: original21 plus110 of286 new kits. **176 assignments remain undelivered** at this checkpoint; later Git commits are authoritative. Three peer-review rotations have been used in addition to main review. See `/tmp/ship-it-growth-overnight/review-b2-batch2.tsv`, `review-a2-batch3.tsv` and ongoing `review-c1-d2.tsv`; previous review logs remain. Main repaired punctuation, malformed competitor URLs (Meet2Tracker and Pearcleaner), an overlap-forecast phrase and invented sample event dates before publishing. Preserve URL and decimal literals when fixing spacing.
 
 C2 revised03/05 copy now reads naturally. Woof, Unposted, Window Safar, StatsCourt, Pehlu and Duvidha were reviewed and pushed individually. C2 scanned pending02/06 for remaining assembly grammar. Provisional/recovery exceptions now also include FindTune (published recovery kit), forthcoming Draftly, Roomly, TableCrew, Verdicts, AIorNot, LaunchPad and Sherpa; FanWarsIndia is an actual withdrawal/refund hold. Do not represent these as ready-for-acquisition products in the final index.
 
 Current main review reservations: C1 reviewing twelve D2 kits thread,fortune-cookie,the-first-story,devils-advocate,kitchen-commune,linkup,facemesh,bond,orbit,ever-minutes,shotgun,nxtmood. B2 batch2 twelve are all published. A2 batch3 twelve are published except Jelly Munch (waiting author actual-CTA clarification). A1 revisions abhyava/askpragzy/audit-extractor/booked/ca-deskk/choreostudio completed and published, plus DefectDoc/ExportReady/FeedbackOS/Fintellix. Writers continue their entire original queues.
+
+## Integration checkpoint — 223 committed kits
+
+Git now contains **223 kits / 1,561 kit documents**, original21 plus202 new. **84 of286 assignments remain undelivered**, not necessarily unwritten. All kits were committed and pushed individually; all21 original tree hashes were compared against d99fbec and remain identical. Current HEAD at this checkpoint:67b46c0.
+
+D2 writer finished all35, then completed20 read-only peer reviews; receipts review-d2-mixed.tsv and review-d2-batch2.tsv. Its previous PASS for PictureAbhiBaakiHai was superseded by FIX: existing policy already permits no-account meaningful sessions. C2 corrected all7, main reviewed and published it. Compass unnecessary course-approval qualifier also removed in a one-kit pushed clarification. No board decisions were reopened.
+
+D2 is now the dedicated ongoing read-only reviewer for **future B1/B2 READY kits**, comparing ready logs, Git and previous receipts; log `/tmp/ship-it-growth-overnight/review-d2-ongoing-tools.tsv`. Main reserves those tool-kit reviews to D2; do not duplicate. MediaChronicle and SoleMatch passed and are already pushed. Mimori PASS is pending main integration. Main retains all Git authority.
+
+Main independently reviewed and published all6 D2 recovery/hold kits: FanWarsIndia,Draftly,AIorNot,Roomly,Tablecrew,Verdicts. Rewrote four public status/owner-request blocks to remove internal technical reporting/instructions leaking into recipient copy. Original product facts remain unknown for those explicitly identified.
+
+A1 peer reviewed12 A2 kits in review-a1-a2.tsv; all now published. D1 peer reviewed12 C1 kits in review-d1-c1.tsv; all now published. C1 peer reviewed12 D2 kits in review-c1-d2.tsv; all published. Source fixes and shared notes through b2-justwriteit-release-gates are pushed. New shared/b2-footholds-artifact-evidence.md awaits main review.
+
+Pending OutreachScheduler already peer-PASS and REVISED READY with metadata; can integrate. A1's PayLoop/PickStack were also revised/frozen with metadata but not yet main-reviewed. Writers continue original full assignments. Before publishing any file run verifier, exact30day rows, Markdown URL whitespace, staged diff-check. Strip trailing whitespace from NEWkit documents first; DumDum had an intentional Markdown hardbreak caught by diff-check and removed before commit.
