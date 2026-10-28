@@ -27,3 +27,7 @@ Cross-cohort organizer rule: one primary offer to the same group per week. Keep 
 ## Adjacent products coordinated with the other business writer
 
 These are audience reservations, not new feature-verification claims: MiloStudio takes café-owner brand voice (its owning writer verifies the live offer); CreatorDeal takes creator contract scope/usage rights on Days 20–23; booked takes solo paid-UGC fulfilment on Days 24–27; Nocapverify takes brand-side creator diligence on Days 24–27, using a different buyer list. Verify each product's actual live capability inside its own kit. No organizer receives all these pitches together.
+
+## Cutroom deeper rendered check — 29 October 2026
+
+The Plans & exports navigation reveals Free ₹0 with three video exports total, not monthly. Creator ₹1,799/month offers twenty exports; Unlimited ₹12,000/month is listed. Both paid buttons are disabled with “Checkout not connected”; no payment collected until connected. Each video version uses a slot on its first export; repeated downloads of that exported version do not. Publishing metadata is free. These are public UI rules, not exercised exports or verified cross-device collaboration. Keep the existing-editor-pair wedge and Days 12–15 reservation.

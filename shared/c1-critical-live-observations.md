@@ -1,0 +1,36 @@
+# Critical live observations — c1 continuation
+
+Checked 29 October 2026. These observations inform the individual kits, which remain standalone. Read-only means no private answers, files, accounts, microphone permissions, generated personal results or payments were submitted.
+
+| Project | Verified observation | Writing consequence |
+| --- | --- | --- |
+| [AI Hunt](https://www.aihunt.co.in/how-it-works) | Starter entries/seeded votes are disclosed as illustrative, while the current index carries editorial releases. | Distinguish demonstration, editorial and genuine community activity before using rankings as proof. |
+| [Adya](https://adyacapital.me/faq.html) | ₹499 open review, invited free; feedback timing is after evaluation, not a guaranteed day from submission. | Keep review, admission and funding separate; capacity-check actual reviews before taking a large intake. |
+| [BuskAlong](https://buskalong.app/) | Raw H1 asks what to play; complete public-domain charts coexist with commercial-song import targets labelled as needing the user's authorized chart. | Demonstrate a complete supported song; do not imply commercial lyrics are bundled. |
+| [First Page](https://first-page.app/privacy) | Browser verified public catalogue, optional fourteen-question quiz, and privacy distinction: account reviews/activity versus local margin/spoiler notes. | Do not claim local notes are shared conversations or the taste quiz is a validated assessment. |
+| [Chaptr](https://chaptr.in/) | Rendered fetch and independent headers returned 401; browser redirected to Netlify Team protection. | Access-recovery kit; no bypass. Product headline, price, CTA and private functionality remain unverified. |
+| [Depth Lab](https://depthlab.me/) | ₹499/month membership is planned; payments explicitly not open. Public briefs/discussion exist, review queue asks sign-in. | Teach-back/application wedge; don't count waitlist as active learning or advertise a current paid subscription. |
+| [Think More](https://www.thinkmore.in/practice) | Browser reached a real Logic exercise with 600-character field and minimum-twenty-character Submit gate. Anonymous practice says written coaching/local answers. | Do not call anonymous responses verified live AI or minimum-length submissions proven learning. |
+| [PrepPehle](https://preppehle.me/) | Browser verified sample dashboard notice and ₹99 upgrade target on provider's **test** checkout hostname. Upload accepts PDF up to 20 MB/scans; trends shows uncalibrated-looking probability labels without a verified basis. | Separate sample/test states from real work/payment. Source-check extraction and use historical frequency, not guaranteed future exam predictions. |
+| [Rythmic Beats](https://www.rythmicbeats.me/pricing) | Six eligible completed exports free; under-minute exports always free and do not consume six. Later one credit per completed minute, five credits ₹99.90. | 1:59 uses one credit, 2:00 two; do not say every export costs a flat amount. No actual export/payment tested. |
+| [Bad Alibi](https://badalibi.lol/) | Current 3–10 players, 35/75 minutes, temporary $2 host offer against $3.99, stated through 30 November. | Old $9/4–6/30-minute roster description is stale. Evergreen copy directs to current terms. |
+| [Vault Break](https://www.vaultbreak.games/) | Site is live now, named Crack the Vault. Two no-account vaults, third with account, optional $1 once for full set. | Do not repeat stale down-domain status. Challenge/main-board rules are distinct product claims. |
+| [Jelly Munch](https://jellymunch.in/) | Life packs and Plus explicitly demo-only, no charges collected. | No demo revenue, app-store release or real paid-customer claim. |
+| [Paper Toss](https://papertossapp.live/) | Ten throws, stars at four/six/eight makes, seven worlds, progress browser-local. | No fabricated cloud account, shared leaderboard or cross-device save. |
+| [Bloomie](https://www.bloomie.world/privacy) | Privacy/help pages label themselves templates with operational/contact facts unfinished. | Trust/support gate before sensitive data intake; no blanket security or therapeutic claim. |
+| [Journaleaf](https://journal-leaf.com/pricing) | Three-day trial, no automatic charge, readable data after trial. US display $4.99/month, $29/year, founding $39 lifetime until 1 January 2027 then $59; local INR not exposed. | Do not invent rupee price or free-forever access. [Privacy](https://journal-leaf.com/privacy) distinguishes local/account storage and explicitly says not end-to-end encrypted. |
+| [Lunara](https://www.lunara.works/) | Raw homepage: Free Pilot $0, Plus $9/month or $79/year, fourteen-day trial. Auth offers thirty-night synthetic demo. Root-cause/clinical wording conflicts with observation-only medical notice. | Record/summary wedge; no diagnosis, causal guarantee, demo-as-user metric or unverified confidentiality certification. |
+| [Morrow](https://www.manifestwithmorrow.online/) | Browser verified eight-step create flow, local template without AI consent, eight library sessions, device/configured-AI narrator disclosure and Prototype footer. | No claim of a finished produced-audio library, completed AI generation or guaranteed future/health outcome. |
+| [Anonymous project](https://shipped.money/p/brain-train-101) | No product URL or tagline; profile has only course metrics. | Seven provisional recovery documents, identity unresolved. No brain-training functionality inferred from slug. |
+
+## Verified alternatives carried into kits
+
+- [ExamSIDE](https://www.examside.com/) explicitly describes free released past-question resources; [ExamGOAL](https://www.examgoal.com/) offers a free trial, but no applicable paid quote was established.
+- [Khan Academy](https://www.khanacademy.org/about) core learning and [MIT OCW](https://ocw.mit.edu/) are free; OCW requires no registration for materials. Neither endorses the student products.
+- [Medito](https://meditofoundation.org/medito-app) is free forever/no account for its content. [Day One](https://dayoneapp.com/pricing/) displayed Basic $0, Silver $49.99/year, Gold $74.99/year.
+- [StoryGraph Plus](https://app.thestorygraph.com/plus) displayed $49.99/year USD, with $4.17 as the annual equivalent, not a cancellable monthly quote. [Goodreads](https://www.goodreads.com/about/us) supports established book/reader activity.
+- [Audacity](https://www.audacityteam.org/) and [BandLab Studio](https://www.bandlab.com/) explicitly describe free editing/creation offerings; optional plugins/services are separate.
+- [Way out West Free](https://www.freeformgames.com/product/way-out-west-free/) is £0.00, ten players plus host and a three-to-four-hour party; do not misdescribe it as the same duration/group as Bad Alibi.
+- [Neave Snake](https://playsnake.org/), [Basketball FRVR](https://basketball.frvr.com/) and [CrazyGames](https://www.crazygames.com/) are verified adjacent browser-play alternatives. A guessed Asteroids path redirected to a generic catalogue, so no kit cites it as a verified specific game.
+
+Reach ranges in the kits are explicitly unmeasured planning assumptions, not facts about these organizations' audiences or platform algorithms. No current Reddit promotion rule is invented where extraction exposed only a rules-page shell.

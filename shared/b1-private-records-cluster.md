@@ -1,0 +1,21 @@
+# Shared research — private records and retrieval
+
+Checked 29 October 2026. These products share trust questions but solve different tasks. Keep private notes, recordings, career files and household details out of public demos and analytics.
+
+| Product | Actual public evidence | Separate first job |
+| --- | --- | --- |
+| [Afterthoughts](https://afterthoughts.app/) | H1 “Say the day out loud.” Public Try it says browser-only; Start tonight goes to email-code account login. Account recordings are described as private and not used to train. No paid amount visible. Privacy route required login in the check. | Record one non-sensitive evening note, then find it by a word later. Don't extend the local demo's no-upload claim to the account service without checking. Patterns are not diagnoses. |
+| [DecisionLog](https://www.decisionlog.in/) | No-account browser log; optional account sync; free up to5active decisions. Early access says every feature free. Pro is described as₹299one-month/₹2,999one-year non-renewing pass; Team from₹999/person/month is coming soon. | Write one reversible ordinary decision and a check-in date, then compare with what happened. Full report needs10resolved decisions; don't fabricate outcomes to unlock it in30days. |
+| [Mimori](https://mimori.dev/) | H1 quiet desk for photographs/textures/places/moments. Literal keyword search, own words, private library; screen illustrations are samples. Public sample workspace exists. | Find a creative reference through a word the user actually wrote, then attach it to a project. No semantic/AI-search or image-analysis claim. |
+| [MyWorkFolio](https://myworkfolio.in/) | Free vault/packs/ZIP/basic reminders; Pro₹99monthlyearlyaccess with several at-launch features. It says users choose type/silo and file contents aren't scanned. | Retrieve a job-switch document pack from a private vault. No automatic document AI/extraction promise or unfinishedVoiceAI sold as live. |
+| [Patterlane](https://patterlane.in/) | Invite-only early Macbeta, first100invited members free then$5/person/month. Sample workspace; eligible Gmail/iCloud/compatibleTLSmail, Outlook/provider-calendar sync not enabled. Explicit unsigned/notnotarized and native/live-provider/model tests pending. | Inspect a local email-conversation concept with existing invited experienced testers, not a general public install campaign or organization mailbox procurement. |
+
+## Checked comparison and channel sources
+
+[Day One pricing](https://dayoneapp.com/pricing/) currently lists Basic$0/year, Silver$49.99/year and Gold$74.99/year. Audio/transcription is listed under Silver. Do not invent a monthly rate or claim voice journaling is unique. [Google Sheets](https://www.google.com/sheets/about/) is a real manual structured-record alternative; a paper/local text record costs₹0in extra specialist software.
+
+[Peerlist Launchpad](https://peerlist.io/launchpad) and [Product Hunt's own guide](https://www.producthunt.com/launch) are checked destinations, not guaranteed distribution. Confirm current availability/eligibility and any existing listing. No vote/engagement requests. [r/macapps rules](https://www.reddit.com/r/macapps/comments/1ryaeex/rmacapps_mods_went_too_far_whats_changing_phase_3/) require the appropriate trust/transparency tier or App Pile, disclosure and one-per-developer30-day frequency; moderator rules override cohort windows. [AlternativeTo](https://alternativeto.net/faq/) free review may be indefinite, so zero base month-one traffic until accepted.
+
+No real journal group, private career-file collection or email-user contact list is authorized by this note. Ask actual organizers privately, use synthetic material and never make disclosure of a personal story the price of a demo. Different circles/jobs: evening diarists, individual decision learners, design-reference students, adult job switchers, experienced Mac email testers. One organization gets one primary product invitation/week.
+
+Without supplied account history, any small-account100–500impression/0–5visit post range is explicitly a planning guess. Count invitations/events only at their scheduled real volumes and only accepted partnerships as secured distribution. A public sample is not a customer account and an invented sample story isn't a testimonial.
