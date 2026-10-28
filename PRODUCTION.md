@@ -79,3 +79,11 @@ Main independently reviewed and published all6 D2 recovery/hold kits: FanWarsInd
 A1 peer reviewed12 A2 kits in review-a1-a2.tsv; all now published. D1 peer reviewed12 C1 kits in review-d1-c1.tsv; all now published. C1 peer reviewed12 D2 kits in review-c1-d2.tsv; all published. Source fixes and shared notes through b2-justwriteit-release-gates are pushed. New shared/b2-footholds-artifact-evidence.md awaits main review.
 
 Pending OutreachScheduler already peer-PASS and REVISED READY with metadata; can integrate. A1's PayLoop/PickStack were also revised/frozen with metadata but not yet main-reviewed. Writers continue original full assignments. Before publishing any file run verifier, exact30day rows, Markdown URL whitespace, staged diff-check. Strip trailing whitespace from NEWkit documents first; DumDum had an intentional Markdown hardbreak caught by diff-check and removed before commit.
+
+## Integration checkpoint — 281 committed kits
+
+Git contains **281 kits / 1,967 documents**: original21 plus260 of286 new;26 assignments remain undelivered. All21 original tree hashes remain unchanged. Main only Git; each kit commit immediately pushed. Root helper `/tmp/ship-it-growth-overnight/publish-reviewed.py` validates explicitly supplied READY/reviewed slugs then commits/pushes each separately (`--no-thin`, after one GitHub thin-pack rejection repaired without force). Structural final helper `audit-final.py` in same temp directory waits for all307 folders.
+
+Ongoing review reservations: A1 reviews last A2 (Threadly/VocTrace); D2 reviews remaining B1/B2; D1 reviews remaining C1 health kits; C1 after its own queue reviews remaining C2 in `review-c1-ongoing-c2.tsv`. Other ongoing receipts: `review-a1-ongoing-a2.tsv`, `review-d2-ongoing-tools.tsv`, `review-d1-ongoing-c1.tsv`. Respect latest FIX/PASS and author REVISEDREADY before publishing. WashQ, SueYourFriend, LaunchPad and Sherpa independently reviewed by main and published.
+
+Final audit must verify307 folders/2149 docs,286 new, aliases6, original21 preservation,30day rows, local links, metadata for newkits, checker and one-kit-per-commit. Build README project index and FINAL-HANDOFF with explicit recovery/target/release exceptions, refresh historical intake links/status and pause heartbeat. All user communication should count committed folders rather than merely READY folders.
