@@ -1,7 +1,6 @@
 # TaskBaddie — Positioning
 
-**Category:** Productivity
-**Live:** https://www.taskbaddie.app/ · **Profile:** https://shipped.money/p/taskbaddie · Checked 29 October 2026.
+**Category:** Productivity · **Live:** https://www.taskbaddie.app/ · **Profile:** https://shipped.money/p/taskbaddie · Checked 29 October 2026.
 
 Your first user is a student who keeps rearranging a list instead of starting. Offer three tasks, four urgency/importance boxes and **one actual 25-minute focus attempt**. Don't make a perfect streak or an entire productivity identity the entry requirement. This is a playful personal focus tool, not a treatment for attention difficulties or a guarantee of better grades.
 
