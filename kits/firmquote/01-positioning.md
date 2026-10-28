@@ -1,5 +1,7 @@
 # FirmQuote — Positioning
 
+**Live:** https://www.firmquote.tech/ · **Category:** SaaS · **Profile:** https://shipped.money/p/firmquote
+
 Checked 29 October 2026 against [firmquote.tech](https://www.firmquote.tech/). Actual headline: **“Your client approves the exact scope. Extras get priced.”** CTA: **“Write a quote”**, pointing to `#quote-builder`; **“See how it works”** is separate. The page says the first quote needs no account and gives a private editor link; more quotes use email sign-in, while clients never need an account. No quote, client acceptance, email or payment was submitted during research.
 
 ## The first business
