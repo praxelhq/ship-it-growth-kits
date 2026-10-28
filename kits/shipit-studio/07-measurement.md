@@ -1,0 +1,11 @@
+# Shipit Studio — Measurement
+
+**Retained target: 1,000 signups in 30 days**, defined as unique genuine eligible student accounts with confirmed college-email access. Beside it report **people reaching the correct workspace and completing one useful real group/class action**, plus groups with at least two actual members using that action. Choose the action from the implemented product before outreach; it was not visible beyond the public signup gate.
+
+Day-0 actual accounts, confirmed emails, eligible cohort size, active groups, leaderboard and analytics are unknown. Do not turn the public illustration into usage evidence or assume any enrolment figure. Obtain only an authorized aggregate eligible denominator; never publish private student rosters. [Clarity](https://clarity.microsoft.com/) setup/masking was not verified. Exclude class messages, assignments, student names, emails and private workspace content from replay/events.
+
+Track source→eligible visitor→account created→confirmation completed→correct workspace→first useful action→second real group member→voluntary return. Record confirmation and access errors without private content. Fake domains, borrowed accounts, unconfirmed registrations and internal tests do not count. One person in multiple groups remains one signup.
+
+`06` schedules ten organizer notes, two campus bulletins and three owned updates. `02` guesses 8–30 attempts and 4–20 confirmed accounts before observed rates replace assumptions. This does not support 1,000. Even perfect conversion cannot exceed the actual remaining eligible audience; if that audience is below 1,000, state the mathematical ceiling. A hypothetical 50% eligible-visit→confirmed-account rate would require 2,000 eligible unique visits, not general public impressions.
+
+W1: if confirmation or correct placement fails, pause invitations. W2: if accounts stay empty, test one cooperating existing group rather than recruit isolated users. W3: permission leakage or unserved account/data requests take priority over growth. W4: report active groups and voluntary return beside accounts and the ceiling. Expanding institution eligibility is a separate product decision, not a hidden assumption to satisfy the target. No course-wide adoption or institutional endorsement is inferred from a pilot.
