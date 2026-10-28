@@ -1,3 +1,5 @@
+**COMPLETE — 29 October 2026:**307 canonical kits / 2,149 documents committed and pushed; 286 new kits delivered; 21 originals preserved. [FINAL-HANDOFF](FINAL-HANDOFF.md), [index](README.md) and [audit](roster/completion-audit.json) are authoritative. The checkpoints and temporary review queues below are historical.
+
 # Growth-kit production ledger
 
 ## Current instructions

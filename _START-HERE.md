@@ -1,5 +1,7 @@
 # START HERE — how to use your Growth Kit
 
+Find your folder in the [complete project index](README.md). Read the readiness gates in your own 01/04 before starting outreach; some products need recovery first.
+
 You shipped a product. Almost nobody has used it. This kit is the thirty days that fixes that.
 
 Zero budget. Organic only. No ads, no influencer payments, no tools you have to buy.

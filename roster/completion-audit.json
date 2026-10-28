@@ -1,0 +1,29 @@
+{
+  "audited_at_utc": "2026-10-28T22:36:36.500144+00:00",
+  "kit_delivery_head": "ccedd4254934d9ad56f7752e5b7afad1fc2b5db5",
+  "roster_rows": 313,
+  "unique_projects": 307,
+  "duplicate_aliases": {
+    "caseflex-2": "caseflex",
+    "closet-stylist-2": "closet-stylist",
+    "karma-atlas-2": "karma-atlas",
+    "myworkfolio-2": "myworkfolio",
+    "scanline-2": "scanline",
+    "sponsor-os-2": "sponsor-os"
+  },
+  "original_kits_preserved": 21,
+  "new_kits": 286,
+  "total_kit_documents": 2149,
+  "new_kit_documents": 2002,
+  "kit_word_count": 1104829,
+  "new_kit_source_category_profile_metadata": true,
+  "exact_seven_files": true,
+  "all_calendars_days_1_through_30": true,
+  "local_links_resolve": true,
+  "web_markdown_urls_have_no_whitespace": true,
+  "original_checker_passed": true,
+  "one_kit_per_kit_commit": true,
+  "kit_commits_since_baseline": 320,
+  "baseline": "d99fbec",
+  "remote": "https://github.com/praxelhq/ship-it-growth-kits.git"
+}

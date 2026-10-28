@@ -1,3 +1,5 @@
+**Completion update — 29 October 2026:** All 286 assignments below are delivered. The current library has 307 folders / 2,149 documents. Read [FINAL-HANDOFF](FINAL-HANDOFF.md) and the [project index](README.md). The counts, queues and open production instructions below describe the historical intake, not remaining work.
+
 # HANDOFF — Ship It Growth Kits
 
 **Read this first. It is the only file you need to start.**

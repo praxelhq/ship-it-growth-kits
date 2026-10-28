@@ -1,3 +1,5 @@
+**Historical production prompt:** All 286 assignments have now been completed. Do not rerun the lane queues. Read [FINAL-HANDOFF](FINAL-HANDOFF.md) and [README](README.md) for the delivered library and source/release exceptions. The original prompt is retained below for provenance.
+
 # Prompt for your own agent
 
 Open `~/Documents/mu_course` and paste the block below. It assumes nothing except that the agent can read the folder and reach the web.
