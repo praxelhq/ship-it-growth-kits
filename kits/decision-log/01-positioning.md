@@ -1,6 +1,6 @@
 # DecisionLog — Positioning
 
-**Live:** https://www.decisionlog.in/ · **Profile:** https://shipped.money/p/decision-log · Consumer decision journal, checked 29 October 2026.
+**Live:** https://www.decisionlog.in/ · **Category:** Productivity · **Profile:** https://shipped.money/p/decision-log · Consumer decision journal, checked 29 October 2026.
 
 Your first user is an individual who repeatedly misremembers what they expected. Start with a reversible ordinary decision: whether to work in the library tomorrow, with an expected result and a genuine check-in date. Don't start with a five-year investment outcome, diagnosis or an employer's confidential hiring decision.
 
