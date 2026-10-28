@@ -1,6 +1,6 @@
 # KnockKnock — Positioning
 
-**Live:** https://knockknockmac.app/ · **Profile:** https://shipped.money/p/knock-knock · Checked 29 October 2026.
+**Live:** https://knockknockmac.app/ · **Category:** Productivity · **Profile:** https://shipped.money/p/knock-knock · Checked 29 October 2026.
 
 Your first buyer is an owner of a supported MacBook who sometimes needs to hide personal windows quickly before sharing a screen or letting someone use their desk. Position it as a convenient window-hiding gesture, not a security lock, cheating aid or guarantee nobody can see information in a screen recording.
 
